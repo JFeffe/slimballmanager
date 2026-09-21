@@ -1,0 +1,8 @@
+{
+  "generator": "builtin image_gen",
+  "approvedReference": "exec-d1552a17-86c7-446d-a781-4f8d78bd2ea4.png",
+  "asset": "dist/assets/portraits/cap-forms.png",
+  "source": "exec-46c7ae47-0499-4d10-8a64-a87a91fb2768.png",
+  "prompt": "Three front-facing pixel-art baseball caps with natural round crowns, curved visors and three subtly different skull patterns. Blank grayscale fabric crowns and cyan trim as material regions, no logos, faces, hair or text, white background. Match the approved portrait board. Targeted revision lowered overly tall crowns while keeping visors curved.",
+  "integration": "Original PNG unchanged; SVG masks, uniform scaling only, original transparent team logos, material color filters. Portrait IDs and original uncapped source faces retained."
+}

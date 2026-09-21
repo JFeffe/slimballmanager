@@ -1,0 +1,516 @@
+{
+  "seed": 191926,
+  "completedSeasons": 10,
+  "exactReloads": 71,
+  "environment": "Node test container; timings include validation and assertions, not browser performance",
+  "samples": [
+    {
+      "completedSeasons": 1,
+      "players": 84,
+      "archives": 1,
+      "saveBytes": 755971,
+      "gzipBase64Bytes": 78588,
+      "simulationAndChecksMs": 372
+    },
+    {
+      "completedSeasons": 2,
+      "players": 108,
+      "archives": 2,
+      "saveBytes": 1472794,
+      "gzipBase64Bytes": 152152,
+      "simulationAndChecksMs": 486
+    },
+    {
+      "completedSeasons": 3,
+      "players": 132,
+      "archives": 3,
+      "saveBytes": 2205260,
+      "gzipBase64Bytes": 227644,
+      "simulationAndChecksMs": 929
+    },
+    {
+      "completedSeasons": 4,
+      "players": 156,
+      "archives": 4,
+      "saveBytes": 2959942,
+      "gzipBase64Bytes": 304896,
+      "simulationAndChecksMs": 1220
+    },
+    {
+      "completedSeasons": 5,
+      "players": 180,
+      "archives": 5,
+      "saveBytes": 3728388,
+      "gzipBase64Bytes": 383876,
+      "simulationAndChecksMs": 1532
+    },
+    {
+      "completedSeasons": 6,
+      "players": 204,
+      "archives": 6,
+      "saveBytes": 4517137,
+      "gzipBase64Bytes": 464792,
+      "simulationAndChecksMs": 1922
+    },
+    {
+      "completedSeasons": 7,
+      "players": 228,
+      "archives": 7,
+      "saveBytes": 5322549,
+      "gzipBase64Bytes": 547760,
+      "simulationAndChecksMs": 2316
+    },
+    {
+      "completedSeasons": 8,
+      "players": 252,
+      "archives": 8,
+      "saveBytes": 6170096,
+      "gzipBase64Bytes": 634236,
+      "simulationAndChecksMs": 2765
+    },
+    {
+      "completedSeasons": 9,
+      "players": 276,
+      "archives": 9,
+      "saveBytes": 7031529,
+      "gzipBase64Bytes": 722236,
+      "simulationAndChecksMs": 3291
+    },
+    {
+      "completedSeasons": 10,
+      "players": 300,
+      "archives": 10,
+      "saveBytes": 7931551,
+      "gzipBase64Bytes": 813784,
+      "simulationAndChecksMs": 3739
+    }
+  ],
+  "checkpoints": [
+    {
+      "season": 1,
+      "label": "initial draft",
+      "bytes": 47323,
+      "decodeMs": 5
+    },
+    {
+      "season": 1,
+      "label": "draft completed",
+      "bytes": 61447,
+      "decodeMs": 2
+    },
+    {
+      "season": 1,
+      "label": "live match",
+      "bytes": 66712,
+      "decodeMs": 2
+    },
+    {
+      "season": 1,
+      "label": "regular season completed",
+      "bytes": 556029,
+      "decodeMs": 13
+    },
+    {
+      "season": 1,
+      "label": "playoffs",
+      "bytes": 585610,
+      "decodeMs": 13
+    },
+    {
+      "season": 1,
+      "label": "awards",
+      "bytes": 1184486,
+      "decodeMs": 24
+    },
+    {
+      "season": 1,
+      "label": "development",
+      "bytes": 1239256,
+      "decodeMs": 22
+    },
+    {
+      "season": 2,
+      "label": "annual draft",
+      "bytes": 756020,
+      "decodeMs": 13
+    },
+    {
+      "season": 2,
+      "label": "draft completed",
+      "bytes": 755100,
+      "decodeMs": 12
+    },
+    {
+      "season": 2,
+      "label": "live match",
+      "bytes": 759492,
+      "decodeMs": 11
+    },
+    {
+      "season": 2,
+      "label": "regular season completed",
+      "bytes": 1239074,
+      "decodeMs": 21
+    },
+    {
+      "season": 2,
+      "label": "playoffs",
+      "bytes": 1254273,
+      "decodeMs": 19
+    },
+    {
+      "season": 2,
+      "label": "awards",
+      "bytes": 1892554,
+      "decodeMs": 32
+    },
+    {
+      "season": 2,
+      "label": "development",
+      "bytes": 1963466,
+      "decodeMs": 30
+    },
+    {
+      "season": 3,
+      "label": "annual draft",
+      "bytes": 1472843,
+      "decodeMs": 22
+    },
+    {
+      "season": 3,
+      "label": "draft completed",
+      "bytes": 1474780,
+      "decodeMs": 28
+    },
+    {
+      "season": 3,
+      "label": "live match",
+      "bytes": 1479099,
+      "decodeMs": 23
+    },
+    {
+      "season": 3,
+      "label": "regular season completed",
+      "bytes": 1950439,
+      "decodeMs": 93
+    },
+    {
+      "season": 3,
+      "label": "playoffs",
+      "bytes": 1965379,
+      "decodeMs": 80
+    },
+    {
+      "season": 3,
+      "label": "awards",
+      "bytes": 2619882,
+      "decodeMs": 106
+    },
+    {
+      "season": 3,
+      "label": "development",
+      "bytes": 2691349,
+      "decodeMs": 101
+    },
+    {
+      "season": 4,
+      "label": "annual draft",
+      "bytes": 2205309,
+      "decodeMs": 66
+    },
+    {
+      "season": 4,
+      "label": "draft completed",
+      "bytes": 2207259,
+      "decodeMs": 65
+    },
+    {
+      "season": 4,
+      "label": "live match",
+      "bytes": 2211600,
+      "decodeMs": 73
+    },
+    {
+      "season": 4,
+      "label": "regular season completed",
+      "bytes": 2671323,
+      "decodeMs": 110
+    },
+    {
+      "season": 4,
+      "label": "playoffs",
+      "bytes": 2686051,
+      "decodeMs": 109
+    },
+    {
+      "season": 4,
+      "label": "awards",
+      "bytes": 3369937,
+      "decodeMs": 138
+    },
+    {
+      "season": 4,
+      "label": "development",
+      "bytes": 3445233,
+      "decodeMs": 134
+    },
+    {
+      "season": 5,
+      "label": "annual draft",
+      "bytes": 2959991,
+      "decodeMs": 97
+    },
+    {
+      "season": 5,
+      "label": "draft completed",
+      "bytes": 2961932,
+      "decodeMs": 101
+    },
+    {
+      "season": 5,
+      "label": "live match",
+      "bytes": 2966496,
+      "decodeMs": 98
+    },
+    {
+      "season": 5,
+      "label": "regular season completed",
+      "bytes": 3428275,
+      "decodeMs": 151
+    },
+    {
+      "season": 5,
+      "label": "playoffs",
+      "bytes": 3442470,
+      "decodeMs": 146
+    },
+    {
+      "season": 5,
+      "label": "awards",
+      "bytes": 4140609,
+      "decodeMs": 174
+    },
+    {
+      "season": 5,
+      "label": "development",
+      "bytes": 4216583,
+      "decodeMs": 178
+    },
+    {
+      "season": 6,
+      "label": "annual draft",
+      "bytes": 3728437,
+      "decodeMs": 136
+    },
+    {
+      "season": 6,
+      "label": "draft completed",
+      "bytes": 3730333,
+      "decodeMs": 135
+    },
+    {
+      "season": 6,
+      "label": "live match",
+      "bytes": 3734751,
+      "decodeMs": 136
+    },
+    {
+      "season": 6,
+      "label": "regular season completed",
+      "bytes": 4198009,
+      "decodeMs": 200
+    },
+    {
+      "season": 6,
+      "label": "playoffs",
+      "bytes": 4212666,
+      "decodeMs": 200
+    },
+    {
+      "season": 6,
+      "label": "awards",
+      "bytes": 4920948,
+      "decodeMs": 231
+    },
+    {
+      "season": 6,
+      "label": "development",
+      "bytes": 4996916,
+      "decodeMs": 224
+    },
+    {
+      "season": 7,
+      "label": "annual draft",
+      "bytes": 4517186,
+      "decodeMs": 186
+    },
+    {
+      "season": 7,
+      "label": "draft completed",
+      "bytes": 4519145,
+      "decodeMs": 176
+    },
+    {
+      "season": 7,
+      "label": "live match",
+      "bytes": 4523599,
+      "decodeMs": 175
+    },
+    {
+      "season": 7,
+      "label": "regular season completed",
+      "bytes": 4994944,
+      "decodeMs": 246
+    },
+    {
+      "season": 7,
+      "label": "playoffs",
+      "bytes": 5009944,
+      "decodeMs": 250
+    },
+    {
+      "season": 7,
+      "label": "awards",
+      "bytes": 5732548,
+      "decodeMs": 279
+    },
+    {
+      "season": 7,
+      "label": "development",
+      "bytes": 5810359,
+      "decodeMs": 284
+    },
+    {
+      "season": 8,
+      "label": "annual draft",
+      "bytes": 5322598,
+      "decodeMs": 223
+    },
+    {
+      "season": 8,
+      "label": "draft completed",
+      "bytes": 5324487,
+      "decodeMs": 229
+    },
+    {
+      "season": 8,
+      "label": "live match",
+      "bytes": 5328982,
+      "decodeMs": 242
+    },
+    {
+      "season": 8,
+      "label": "regular season completed",
+      "bytes": 5803145,
+      "decodeMs": 294
+    },
+    {
+      "season": 8,
+      "label": "playoffs",
+      "bytes": 5800217,
+      "decodeMs": 283
+    },
+    {
+      "season": 8,
+      "label": "awards",
+      "bytes": 6564178,
+      "decodeMs": 329
+    },
+    {
+      "season": 8,
+      "label": "development",
+      "bytes": 6650960,
+      "decodeMs": 348
+    },
+    {
+      "season": 9,
+      "label": "annual draft",
+      "bytes": 6170145,
+      "decodeMs": 282
+    },
+    {
+      "season": 9,
+      "label": "draft completed",
+      "bytes": 6171950,
+      "decodeMs": 280
+    },
+    {
+      "season": 9,
+      "label": "live match",
+      "bytes": 6176378,
+      "decodeMs": 278
+    },
+    {
+      "season": 9,
+      "label": "regular season completed",
+      "bytes": 6635962,
+      "decodeMs": 367
+    },
+    {
+      "season": 9,
+      "label": "playoffs",
+      "bytes": 6650532,
+      "decodeMs": 360
+    },
+    {
+      "season": 9,
+      "label": "awards",
+      "bytes": 7431880,
+      "decodeMs": 407
+    },
+    {
+      "season": 9,
+      "label": "development",
+      "bytes": 7520400,
+      "decodeMs": 411
+    },
+    {
+      "season": 10,
+      "label": "annual draft",
+      "bytes": 7031578,
+      "decodeMs": 336
+    },
+    {
+      "season": 10,
+      "label": "draft completed",
+      "bytes": 7033518,
+      "decodeMs": 337
+    },
+    {
+      "season": 10,
+      "label": "live match",
+      "bytes": 7037842,
+      "decodeMs": 349
+    },
+    {
+      "season": 10,
+      "label": "regular season completed",
+      "bytes": 7496672,
+      "decodeMs": 413
+    },
+    {
+      "season": 10,
+      "label": "playoffs",
+      "bytes": 7511771,
+      "decodeMs": 413
+    },
+    {
+      "season": 10,
+      "label": "awards",
+      "bytes": 8319080,
+      "decodeMs": 452
+    },
+    {
+      "season": 10,
+      "label": "development",
+      "bytes": 8415150,
+      "decodeMs": 460
+    },
+    {
+      "season": 11,
+      "label": "annual draft",
+      "bytes": 7931600,
+      "decodeMs": 396
+    }
+  ]
+}

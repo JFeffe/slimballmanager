@@ -1,0 +1,4 @@
+import {sqliteTable,text,integer,uniqueIndex,index} from 'drizzle-orm/sqlite-core';
+export const rooms=sqliteTable('relay_rooms',{id:text('id').primaryKey(),keys:text('keys_json').notNull(),snapshot:text('snapshot').notNull(),revision:integer('revision').notNull(),expires:integer('expires').notNull(),hostSeen:integer('host_seen').notNull(),ownerIp:text('owner_ip').notNull()},t=>[index('rooms_expiry').on(t.expires)]);
+export const presence=sqliteTable('relay_presence',{room:text('room').notNull(),actor:text('actor').notNull(),seen:integer('seen').notNull()},t=>[uniqueIndex('presence_identity').on(t.room,t.actor)]);
+export const commands=sqliteTable('relay_commands',{seq:integer('seq').primaryKey({autoIncrement:true}),room:text('room').notNull(),actor:text('actor').notNull(),commandId:text('command_id').notNull(),payload:text('payload').notNull()},t=>[uniqueIndex('command_identity').on(t.room,t.actor,t.commandId),index('command_room').on(t.room,t.seq)]);

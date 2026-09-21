@@ -1,0 +1,7569 @@
+{
+  "protocol": {
+    "count": 12,
+    "years": 10,
+    "seeds": [
+      91200,
+      91201,
+      91202,
+      91203,
+      91204,
+      91205,
+      91206,
+      91207,
+      91208,
+      91209,
+      91210,
+      91211
+    ],
+    "user": "auto draft + auto lineup, no market decisions",
+    "matches": "all regular season and playoff games; no fabricated results"
+  },
+  "runs": [
+    {
+      "seed": 91200,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 26.666666666666668,
+          "activeAge": 26.958333333333332,
+          "activeUnder24": 5,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 15.833333333333334,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 27.5,
+              "age": 27.375
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 25.625,
+              "age": 26.25
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 28.125,
+              "age": 27.75
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 26.875,
+              "age": 27
+            },
+            {
+              "id": "t4",
+              "w": 12,
+              "talent": 25.625,
+              "age": 26.875
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 26.25,
+              "age": 26.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.1,
+          "rookieCount": 24,
+          "rookieTalent": 26.25
+        },
+        {
+          "season": 2,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 28.708333333333332,
+          "activeAge": 25.791666666666668,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 33,
+          "freeTalent": 20.333333333333332,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 29,
+              "age": 26.125
+            },
+            {
+              "id": "t1",
+              "w": 21,
+              "talent": 27.375,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 28.75,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 29,
+              "age": 26.5
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 29.375,
+              "age": 25.625
+            },
+            {
+              "id": "t5",
+              "w": 11,
+              "talent": 28.75,
+              "age": 24.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 8,
+          "development": 0.2345679012345679,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 3,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 29.1875,
+          "activeAge": 24.791666666666668,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 49,
+          "freeTalent": 22.06122448979592,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 28.875,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 21,
+              "talent": 28.125,
+              "age": 24.875
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 28.75,
+              "age": 24
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 30.625,
+              "age": 24.5
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 29.375,
+              "age": 25.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 29.375,
+              "age": 25.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.29896907216494845,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 4,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 30.5,
+          "activeAge": 24.708333333333332,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 70,
+          "freeTalent": 22.714285714285715,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 8,
+              "talent": 29.375,
+              "age": 24.125
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 29.5,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 29.125,
+              "age": 24
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 32.375,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 22,
+              "talent": 33.125,
+              "age": 25.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 29.5,
+              "age": 25.125
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.4830508474576271,
+          "rookieCount": 24,
+          "rookieTalent": 24.166666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 31.354166666666668,
+          "activeAge": 25.041666666666668,
+          "activeUnder24": 17,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 86,
+          "freeTalent": 23.441860465116278,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 30.5,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 30.625,
+              "age": 26.875
+            },
+            {
+              "id": "t2",
+              "w": 11,
+              "talent": 30.875,
+              "age": 24.375
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 33.25,
+              "age": 24
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 32.625,
+              "age": 25.375
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 30.25,
+              "age": 25.25
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.5,
+          "rookieCount": 24,
+          "rookieTalent": 26.041666666666668
+        },
+        {
+          "season": 6,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 32.375,
+          "activeAge": 24.8125,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 105,
+          "freeTalent": 24.247619047619047,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 31.5,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 31.5,
+              "age": 25.375
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 31.75,
+              "age": 24.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 33.875,
+              "age": 24.375
+            },
+            {
+              "id": "t4",
+              "w": 14,
+              "talent": 33.75,
+              "age": 25.875
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 31.875,
+              "age": 24.375
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 1
+          },
+          "retirements": 6,
+          "development": 0.5555555555555556,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t5",
+          "streak": 2,
+          "activeTalent": 33.333333333333336,
+          "activeAge": 24.895833333333332,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 123,
+          "freeTalent": 24.83739837398374,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 32.75,
+              "age": 23.125
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 33.5,
+              "age": 24.625
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 32.375,
+              "age": 25.25
+            },
+            {
+              "id": "t3",
+              "w": 14,
+              "talent": 34.625,
+              "age": 25.875
+            },
+            {
+              "id": "t4",
+              "w": 21,
+              "talent": 33.625,
+              "age": 25
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 33.125,
+              "age": 25.5
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.5029239766081871,
+          "rookieCount": 24,
+          "rookieTalent": 22.5
+        },
+        {
+          "season": 8,
+          "winner": "t5",
+          "streak": 3,
+          "activeTalent": 34.333333333333336,
+          "activeAge": 25.5625,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 140,
+          "freeTalent": 24.807142857142857,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 33.875,
+              "age": 23.5
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 34.25,
+              "age": 26
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 34.125,
+              "age": 25.375
+            },
+            {
+              "id": "t3",
+              "w": 14,
+              "talent": 36.125,
+              "age": 27.125
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 34.75,
+              "age": 26.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 32.875,
+              "age": 24.875
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 2
+          },
+          "retirements": 5,
+          "development": 0.48404255319148937,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 34.8125,
+          "activeAge": 25.75,
+          "activeUnder24": 11,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 159,
+          "freeTalent": 25.40251572327044,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 34.625,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 34.125,
+              "age": 25.5
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 35.5,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 36.875,
+              "age": 28.375
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 34.75,
+              "age": 26
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 33,
+              "age": 25.375
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.3719806763285024,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 10,
+          "winner": "t0",
+          "streak": 2,
+          "activeTalent": 35.25,
+          "activeAge": 26.1875,
+          "activeUnder24": 8,
+          "activeOver34": 0,
+          "activeMaxTalent": 46,
+          "freeCount": 176,
+          "freeTalent": 25.642045454545453,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 35.125,
+              "age": 25.25
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 34.5,
+              "age": 26.625
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 35.375,
+              "age": 25.875
+            },
+            {
+              "id": "t3",
+              "w": 22,
+              "talent": 36.75,
+              "age": 27.875
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 36.75,
+              "age": 25.125
+            },
+            {
+              "id": "t5",
+              "w": 12,
+              "talent": 33,
+              "age": 26.375
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 1
+          },
+          "retirements": 9,
+          "development": 0.39285714285714285,
+          "rookieCount": 24,
+          "rookieTalent": 25.833333333333332
+        }
+      ],
+      "uniqueChampions": 5
+    },
+    {
+      "seed": 91201,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 25.9375,
+          "activeAge": 26.75,
+          "activeUnder24": 6,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 18.75,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 24.375,
+              "age": 26.625
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 27.5,
+              "age": 26.75
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 26.25,
+              "age": 28.25
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 25.625,
+              "age": 25.5
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 26.25,
+              "age": 27.75
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 25.625,
+              "age": 25.625
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.1,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 2,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 27.354166666666668,
+          "activeAge": 25.520833333333332,
+          "activeUnder24": 16,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 30,
+          "freeTalent": 20.8,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 26.875,
+              "age": 25.625
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 28.5,
+              "age": 25.75
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 26.625,
+              "age": 26.375
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 26.625,
+              "age": 23.625
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 26.875,
+              "age": 26.625
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 28.625,
+              "age": 25.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.3333333333333333,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 3,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 28.5625,
+          "activeAge": 24.395833333333332,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 49,
+          "freeTalent": 21.408163265306122,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 28.5,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 28.625,
+              "age": 24.875
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 27.5,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 29.75,
+              "age": 22.875
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 26.5,
+              "age": 24.75
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 30.5,
+              "age": 24.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.4020618556701031,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 4,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 29.166666666666668,
+          "activeAge": 24.229166666666668,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 65,
+          "freeTalent": 21.73846153846154,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 29.25,
+              "age": 24.25
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 27.125,
+              "age": 22.875
+            },
+            {
+              "id": "t2",
+              "w": 11,
+              "talent": 27.5,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 31.125,
+              "age": 24
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 28.75,
+              "age": 24.875
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.25,
+              "age": 24.25
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.48672566371681414,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 30.375,
+          "activeAge": 23.895833333333332,
+          "activeUnder24": 24,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 84,
+          "freeTalent": 22.25,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 29.5,
+              "age": 23.25
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 29.125,
+              "age": 23.5
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 30,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 22,
+              "talent": 32.25,
+              "age": 25.125
+            },
+            {
+              "id": "t4",
+              "w": 9,
+              "talent": 29.25,
+              "age": 22.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 32.125,
+              "age": 24.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.7803030303030303,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        },
+        {
+          "season": 6,
+          "winner": "t3",
+          "streak": 2,
+          "activeTalent": 31.729166666666668,
+          "activeAge": 23.875,
+          "activeUnder24": 26,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 99,
+          "freeTalent": 23.727272727272727,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 30.875,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 31,
+              "age": 22.875
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 31.75,
+              "age": 23.375
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 33.125,
+              "age": 26.75
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 31,
+              "age": 22.375
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 32.625,
+              "age": 24
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 2
+          },
+          "retirements": 1,
+          "development": 0.6530612244897959,
+          "rookieCount": 24,
+          "rookieTalent": 26.25
+        },
+        {
+          "season": 7,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 33.5,
+          "activeAge": 24.333333333333332,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 50,
+          "freeCount": 122,
+          "freeTalent": 24.311475409836067,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 33.125,
+              "age": 25.25
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 31.625,
+              "age": 23.125
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 34.375,
+              "age": 23.5
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 34.875,
+              "age": 25.5
+            },
+            {
+              "id": "t4",
+              "w": 12,
+              "talent": 31.5,
+              "age": 22.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 35.5,
+              "age": 26.25
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.6882352941176471,
+          "rookieCount": 24,
+          "rookieTalent": 26.458333333333332
+        },
+        {
+          "season": 8,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 34.729166666666664,
+          "activeAge": 24.166666666666668,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 50,
+          "freeCount": 141,
+          "freeTalent": 25.26241134751773,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 32.5,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 34.25,
+              "age": 23.875
+            },
+            {
+              "id": "t2",
+              "w": 25,
+              "talent": 35.375,
+              "age": 22.875
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 35,
+              "age": 24.875
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 34.25,
+              "age": 23.375
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 37,
+              "age": 25.625
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 1
+          },
+          "retirements": 4,
+          "development": 0.6455026455026455,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 9,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 36.333333333333336,
+          "activeAge": 25.375,
+          "activeUnder24": 13,
+          "activeOver34": 0,
+          "activeMaxTalent": 50,
+          "freeCount": 161,
+          "freeTalent": 25.490683229813666,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 11,
+              "talent": 33.625,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 36.375,
+              "age": 25.25
+            },
+            {
+              "id": "t2",
+              "w": 23,
+              "talent": 40,
+              "age": 25.625
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 34.375,
+              "age": 25.375
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 35.375,
+              "age": 24.125
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 38.25,
+              "age": 27
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.49282296650717705,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 10,
+          "winner": "t1",
+          "streak": 2,
+          "activeTalent": 37.145833333333336,
+          "activeAge": 25.666666666666668,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 48,
+          "freeCount": 182,
+          "freeTalent": 25.615384615384617,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 34.625,
+              "age": 25.25
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 38.25,
+              "age": 25.5
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 39.375,
+              "age": 25.875
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 35.625,
+              "age": 25.875
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 37,
+              "age": 23.75
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 38,
+              "age": 27.75
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 1
+          },
+          "retirements": 9,
+          "development": 0.3695652173913043,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        }
+      ],
+      "uniqueChampions": 5
+    },
+    {
+      "seed": 91202,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 26.145833333333332,
+          "activeAge": 26.979166666666668,
+          "activeUnder24": 7,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 16.25,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 25.625,
+              "age": 25.625
+            },
+            {
+              "id": "t1",
+              "w": 24,
+              "talent": 26.875,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 26.25,
+              "age": 26.75
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 26.875,
+              "age": 29.125
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 26.875,
+              "age": 26.125
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 24.375,
+              "age": 28.375
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 4,
+          "development": 0.016666666666666666,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 2,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 27.166666666666668,
+          "activeAge": 25.6875,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 32,
+          "freeTalent": 19.8125,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 26.5,
+              "age": 25
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 27.75,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 27.5,
+              "age": 25.625
+            },
+            {
+              "id": "t3",
+              "w": 11,
+              "talent": 27,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 22,
+              "talent": 29.875,
+              "age": 26
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 24.375,
+              "age": 26
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 1
+          },
+          "retirements": 8,
+          "development": 0.05,
+          "rookieCount": 24,
+          "rookieTalent": 22.708333333333332
+        },
+        {
+          "season": 3,
+          "winner": "t0",
+          "streak": 2,
+          "activeTalent": 27.8125,
+          "activeAge": 24.541666666666668,
+          "activeUnder24": 24,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 48,
+          "freeTalent": 20.875,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 26.625,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 27.625,
+              "age": 23.25
+            },
+            {
+              "id": "t2",
+              "w": 22,
+              "talent": 28.375,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 28.125,
+              "age": 23.75
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 30.125,
+              "age": 26.5
+            },
+            {
+              "id": "t5",
+              "w": 10,
+              "talent": 26,
+              "age": 25.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.3645833333333333,
+          "rookieCount": 24,
+          "rookieTalent": 25.833333333333332
+        },
+        {
+          "season": 4,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 29.5625,
+          "activeAge": 24.104166666666668,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 63,
+          "freeTalent": 21.841269841269842,
+          "npcWinSpread": 2,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 27.25,
+              "age": 24
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 31.75,
+              "age": 23.25
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 29,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 29.125,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 30,
+              "age": 24.75
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 30.25,
+              "age": 23.75
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.5135135135135135,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 30.6875,
+          "activeAge": 24.208333333333332,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 82,
+          "freeTalent": 22.475609756097562,
+          "npcWinSpread": 17,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 28.625,
+              "age": 23.5
+            },
+            {
+              "id": "t1",
+              "w": 23,
+              "talent": 33.125,
+              "age": 23.75
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 30.375,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 22,
+              "talent": 31.125,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 31.125,
+              "age": 24.75
+            },
+            {
+              "id": "t5",
+              "w": 6,
+              "talent": 29.75,
+              "age": 23.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.6923076923076923,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 6,
+          "winner": "t2",
+          "streak": 2,
+          "activeTalent": 31.6875,
+          "activeAge": 24.5625,
+          "activeUnder24": 18,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 102,
+          "freeTalent": 23.107843137254903,
+          "npcWinSpread": 3,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 29.875,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 32.625,
+              "age": 24.5
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 31.5,
+              "age": 25.75
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 32.5,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 32,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 31.625,
+              "age": 23.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.5533333333333333,
+          "rookieCount": 24,
+          "rookieTalent": 26.041666666666668
+        },
+        {
+          "season": 7,
+          "winner": "t2",
+          "streak": 3,
+          "activeTalent": 32.916666666666664,
+          "activeAge": 24.604166666666668,
+          "activeUnder24": 17,
+          "activeOver34": 1,
+          "activeMaxTalent": 43,
+          "freeCount": 120,
+          "freeTalent": 23.966666666666665,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 32.75,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 22,
+              "talent": 33.5,
+              "age": 23.875
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 33.375,
+              "age": 25.875
+            },
+            {
+              "id": "t3",
+              "w": 10,
+              "talent": 32.5,
+              "age": 25.375
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 33.625,
+              "age": 24.625
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 31.75,
+              "age": 23.5
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.6428571428571429,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 8,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 33.375,
+          "activeAge": 24.4375,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 139,
+          "freeTalent": 24.769784172661872,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.75,
+              "age": 23.25
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 33.375,
+              "age": 24.5
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 33.125,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.5,
+              "age": 23.875
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 34.375,
+              "age": 25.625
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 32.125,
+              "age": 24.375
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.5080213903743316,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 34.458333333333336,
+          "activeAge": 25.375,
+          "activeUnder24": 16,
+          "activeOver34": 0,
+          "activeMaxTalent": 50,
+          "freeCount": 160,
+          "freeTalent": 24.8125,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 33.375,
+              "age": 24.125
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 33.875,
+              "age": 26.625
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 34.375,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 36.625,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 34.375,
+              "age": 25.625
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 34.125,
+              "age": 25.5
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.28365384615384615,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 10,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 34.75,
+          "activeAge": 25.229166666666668,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 50,
+          "freeCount": 176,
+          "freeTalent": 25.125,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 33.375,
+              "age": 24.5
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 32.75,
+              "age": 26.375
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 35.625,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 36.875,
+              "age": 25.375
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 35.625,
+              "age": 26
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 34.25,
+              "age": 24.875
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 13,
+          "development": 0.23214285714285715,
+          "rookieCount": 24,
+          "rookieTalent": 25.833333333333332
+        }
+      ],
+      "uniqueChampions": 4
+    },
+    {
+      "seed": 91203,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 26.458333333333332,
+          "activeAge": 25.708333333333332,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 18.75,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 26.875,
+              "age": 27
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 26.25,
+              "age": 24.125
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 26.25,
+              "age": 24.375
+            },
+            {
+              "id": "t3",
+              "w": 9,
+              "talent": 26.875,
+              "age": 27.25
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 26.25,
+              "age": 27.25
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 26.25,
+              "age": 24.25
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.06666666666666667,
+          "rookieCount": 24,
+          "rookieTalent": 26.25
+        },
+        {
+          "season": 2,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 28.25,
+          "activeAge": 24.916666666666668,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 39,
+          "freeCount": 32,
+          "freeTalent": 21.65625,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 28.375,
+              "age": 25.375
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 29.375,
+              "age": 23.875
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 28.5,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 28.375,
+              "age": 25.875
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 27.25,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 27.625,
+              "age": 24
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.4375,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 3,
+          "winner": "t1",
+          "streak": 2,
+          "activeTalent": 29.479166666666668,
+          "activeAge": 24.25,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 52,
+          "freeTalent": 22.807692307692307,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 29.25,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 31.25,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 29,
+              "age": 24.5
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 28.875,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 28.625,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 29.875,
+              "age": 23.75
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 1,
+          "development": 0.63,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 4,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 30.5625,
+          "activeAge": 24.479166666666668,
+          "activeUnder24": 22,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 75,
+          "freeTalent": 23.36,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 29.5,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 32,
+              "age": 24.625
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 30.5,
+              "age": 24.125
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 30.875,
+              "age": 24
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 29.25,
+              "age": 25.25
+            },
+            {
+              "id": "t5",
+              "w": 25,
+              "talent": 31.25,
+              "age": 25.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.6178861788617886,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 31.833333333333332,
+          "activeAge": 24.6875,
+          "activeUnder24": 17,
+          "activeOver34": 1,
+          "activeMaxTalent": 42,
+          "freeCount": 94,
+          "freeTalent": 24.06382978723404,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 31.25,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 33.375,
+              "age": 25.625
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 31.875,
+              "age": 23.875
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 32.5,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 30.25,
+              "age": 24.875
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.75,
+              "age": 24.875
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.6619718309859155,
+          "rookieCount": 24,
+          "rookieTalent": 25.625
+        },
+        {
+          "season": 6,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 33.25,
+          "activeAge": 24.458333333333332,
+          "activeUnder24": 13,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 115,
+          "freeTalent": 24.643478260869564,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 31.75,
+              "age": 24
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 34.25,
+              "age": 24.75
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 33.125,
+              "age": 23.875
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.625,
+              "age": 25
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 32.375,
+              "age": 24.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 33.375,
+              "age": 24.75
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.7177914110429447,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 34.25,
+          "activeAge": 25,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 132,
+          "freeTalent": 25.310606060606062,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 31.875,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 36.375,
+              "age": 26.75
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 34.75,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 35,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 33,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 34.5,
+              "age": 26.25
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.6444444444444445,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 8,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 35.375,
+          "activeAge": 26,
+          "activeUnder24": 11,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 151,
+          "freeTalent": 25.556291390728475,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 32.5,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 36.125,
+              "age": 27
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 37.25,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 14,
+              "talent": 36.125,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 35.125,
+              "age": 26
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 35.125,
+              "age": 27.625
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.4824120603015075,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 9,
+          "winner": "t5",
+          "streak": 2,
+          "activeTalent": 36.25,
+          "activeAge": 26.166666666666668,
+          "activeUnder24": 8,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 171,
+          "freeTalent": 25.736842105263158,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 32.5,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 36.25,
+              "age": 25.75
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 38.875,
+              "age": 26.375
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 37.625,
+              "age": 26.75
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 36.25,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 36,
+              "age": 27.75
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 2
+          },
+          "retirements": 5,
+          "development": 0.2922374429223744,
+          "rookieCount": 24,
+          "rookieTalent": 25.833333333333332
+        },
+        {
+          "season": 10,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 36.5625,
+          "activeAge": 26.354166666666668,
+          "activeUnder24": 11,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 190,
+          "freeTalent": 26.057894736842105,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 35.125,
+              "age": 25.75
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 36.625,
+              "age": 26.125
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 38,
+              "age": 26.375
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 37.25,
+              "age": 26.625
+            },
+            {
+              "id": "t4",
+              "w": 14,
+              "talent": 35.625,
+              "age": 25.375
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 36.75,
+              "age": 27.875
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.21428571428571427,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        }
+      ],
+      "uniqueChampions": 4
+    },
+    {
+      "seed": 91204,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 25.208333333333332,
+          "activeAge": 26.458333333333332,
+          "activeUnder24": 9,
+          "activeOver34": 0,
+          "activeMaxTalent": 35,
+          "freeCount": 12,
+          "freeTalent": 15.833333333333334,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 24.375,
+              "age": 25.75
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 24.375,
+              "age": 27
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 26.25,
+              "age": 26.625
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 25.625,
+              "age": 27.5
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 25,
+              "age": 26.875
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 25.625,
+              "age": 25
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.23333333333333334,
+          "rookieCount": 24,
+          "rookieTalent": 24.166666666666668
+        },
+        {
+          "season": 2,
+          "winner": "t0",
+          "streak": 2,
+          "activeTalent": 27.354166666666668,
+          "activeAge": 24.916666666666668,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 38,
+          "freeCount": 28,
+          "freeTalent": 18.571428571428573,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 25.75,
+              "age": 25
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 27.375,
+              "age": 24.375
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 27.25,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 27.875,
+              "age": 26.5
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 27.125,
+              "age": 23.875
+            },
+            {
+              "id": "t5",
+              "w": 21,
+              "talent": 28.75,
+              "age": 25.125
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 1
+          },
+          "retirements": 6,
+          "development": 0.4868421052631579,
+          "rookieCount": 24,
+          "rookieTalent": 26.458333333333332
+        },
+        {
+          "season": 3,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 29.3125,
+          "activeAge": 23.375,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 46,
+          "freeTalent": 21.391304347826086,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 27.375,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 29.25,
+              "age": 23.125
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 30.375,
+              "age": 23.5
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 31.125,
+              "age": 23.5
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 28.25,
+              "age": 22
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 29.5,
+              "age": 24.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.5212765957446809,
+          "rookieCount": 24,
+          "rookieTalent": 25.416666666666668
+        },
+        {
+          "season": 4,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 30.791666666666668,
+          "activeAge": 23.125,
+          "activeUnder24": 30,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 66,
+          "freeTalent": 22.545454545454547,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 29.75,
+              "age": 23.125
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 31.875,
+              "age": 23.5
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 32.375,
+              "age": 23.5
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 31.125,
+              "age": 22
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 29.875,
+              "age": 21.875
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 29.75,
+              "age": 24.75
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.4473684210526316,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 5,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 32.208333333333336,
+          "activeAge": 23.5,
+          "activeUnder24": 29,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 84,
+          "freeTalent": 23.226190476190474,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 30.625,
+              "age": 23.5
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 32.875,
+              "age": 23.5
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 33.875,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 14,
+              "talent": 32.25,
+              "age": 22.625
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 31.875,
+              "age": 22.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.75,
+              "age": 25.25
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": 0.45454545454545453,
+          "rookieCount": 24,
+          "rookieTalent": 25.625
+        },
+        {
+          "season": 6,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 33.0625,
+          "activeAge": 23.416666666666668,
+          "activeUnder24": 27,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 106,
+          "freeTalent": 24.18867924528302,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 11,
+              "talent": 31.375,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 34.125,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 34.125,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 24,
+              "talent": 35.5,
+              "age": 22.875
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 32.625,
+              "age": 22.75
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 30.625,
+              "age": 23.625
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.38961038961038963,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 7,
+          "winner": "t2",
+          "streak": 2,
+          "activeTalent": 34,
+          "activeAge": 24.125,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 126,
+          "freeTalent": 24.58730158730159,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 33.625,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 35.625,
+              "age": 24.75
+            },
+            {
+              "id": "t2",
+              "w": 22,
+              "talent": 35.25,
+              "age": 24.375
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 36,
+              "age": 24
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 32.5,
+              "age": 23.5
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 31,
+              "age": 24.5
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.3333333333333333,
+          "rookieCount": 24,
+          "rookieTalent": 25.416666666666668
+        },
+        {
+          "season": 8,
+          "winner": "t2",
+          "streak": 3,
+          "activeTalent": 35.104166666666664,
+          "activeAge": 24.291666666666668,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 141,
+          "freeTalent": 25.099290780141843,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 34.25,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 34.75,
+              "age": 25.375
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 35.625,
+              "age": 24.5
+            },
+            {
+              "id": "t3",
+              "w": 22,
+              "talent": 37.875,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 35.125,
+              "age": 23.125
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 33,
+              "age": 24.375
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.5291005291005291,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 9,
+          "winner": "t2",
+          "streak": 4,
+          "activeTalent": 36.208333333333336,
+          "activeAge": 25.354166666666668,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 159,
+          "freeTalent": 25.547169811320753,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 34.875,
+              "age": 24.5
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 37.375,
+              "age": 27
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 37.75,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 38.875,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 36,
+              "age": 24.625
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 32.375,
+              "age": 24.25
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.3671497584541063,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 10,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 36.895833333333336,
+          "activeAge": 26.3125,
+          "activeUnder24": 6,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 177,
+          "freeTalent": 25.64406779661017,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 10,
+              "talent": 35.375,
+              "age": 25.5
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 38.375,
+              "age": 28
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 37.625,
+              "age": 26.75
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 39.125,
+              "age": 26.5
+            },
+            {
+              "id": "t4",
+              "w": 23,
+              "talent": 36.5,
+              "age": 26
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 34.375,
+              "age": 25.125
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.24,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        }
+      ],
+      "uniqueChampions": 3
+    },
+    {
+      "seed": 91205,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 27.291666666666668,
+          "activeAge": 26.625,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 17.916666666666668,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 26.25,
+              "age": 25.375
+            },
+            {
+              "id": "t1",
+              "w": 12,
+              "talent": 27.5,
+              "age": 27
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 28.125,
+              "age": 25.25
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 26.25,
+              "age": 26.375
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 28.125,
+              "age": 27.875
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 27.5,
+              "age": 27.875
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": -0.26666666666666666,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 2,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 27.8125,
+          "activeAge": 24.895833333333332,
+          "activeUnder24": 17,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 27,
+          "freeTalent": 20.11111111111111,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 27.5,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 27.875,
+              "age": 25.25
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 27.75,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 27.5,
+              "age": 24.875
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 28,
+              "age": 24.875
+            },
+            {
+              "id": "t5",
+              "w": 21,
+              "talent": 28.25,
+              "age": 26.375
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.25333333333333335,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 3,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 29.083333333333332,
+          "activeAge": 23.666666666666668,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 44,
+          "freeTalent": 21.568181818181817,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 29,
+              "age": 23
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 28.625,
+              "age": 22.625
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 27.75,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 29.375,
+              "age": 23.625
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 30.25,
+              "age": 23.625
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 29.5,
+              "age": 25.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.5217391304347826,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 4,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 30.625,
+          "activeAge": 23.8125,
+          "activeUnder24": 26,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 64,
+          "freeTalent": 22.359375,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 30,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 12,
+              "talent": 30.75,
+              "age": 23.25
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 29.125,
+              "age": 23.375
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 32.125,
+              "age": 23.5
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 31.125,
+              "age": 25
+            },
+            {
+              "id": "t5",
+              "w": 23,
+              "talent": 30.625,
+              "age": 24
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 1
+          },
+          "retirements": 3,
+          "development": 0.33035714285714285,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 31.8125,
+          "activeAge": 23.916666666666668,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 85,
+          "freeTalent": 22.858823529411765,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 31.625,
+              "age": 24.125
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 33.375,
+              "age": 23.75
+            },
+            {
+              "id": "t2",
+              "w": 11,
+              "talent": 31.125,
+              "age": 24
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 32.25,
+              "age": 23.375
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 31.375,
+              "age": 25.375
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 31.125,
+              "age": 22.875
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.3308270676691729,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        },
+        {
+          "season": 6,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 32.833333333333336,
+          "activeAge": 24.125,
+          "activeUnder24": 27,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 104,
+          "freeTalent": 23.41346153846154,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 32.625,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 34,
+              "age": 24.375
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 33.625,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 32.875,
+              "age": 24.75
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 31.25,
+              "age": 23.75
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 32.625,
+              "age": 22.625
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.6447368421052632,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 7,
+          "winner": "t5",
+          "streak": 2,
+          "activeTalent": 33.833333333333336,
+          "activeAge": 24.708333333333332,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 124,
+          "freeTalent": 24.096774193548388,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 32.875,
+              "age": 25.5
+            },
+            {
+              "id": "t1",
+              "w": 11,
+              "talent": 35.75,
+              "age": 25.5
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 36,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 32.875,
+              "age": 24.375
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 31.125,
+              "age": 24.125
+            },
+            {
+              "id": "t5",
+              "w": 21,
+              "talent": 34.375,
+              "age": 23.75
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.6453488372093024,
+          "rookieCount": 24,
+          "rookieTalent": 27.291666666666668
+        },
+        {
+          "season": 8,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 34.9375,
+          "activeAge": 24.625,
+          "activeUnder24": 16,
+          "activeOver34": 1,
+          "activeMaxTalent": 45,
+          "freeCount": 145,
+          "freeTalent": 25.089655172413792,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 8,
+              "talent": 34.375,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 36.625,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 36.5,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 35.625,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 31.875,
+              "age": 24.75
+            },
+            {
+              "id": "t5",
+              "w": 21,
+              "talent": 34.625,
+              "age": 24.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.6269430051813472,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 35.645833333333336,
+          "activeAge": 25.541666666666668,
+          "activeUnder24": 9,
+          "activeOver34": 1,
+          "activeMaxTalent": 46,
+          "freeCount": 163,
+          "freeTalent": 25.70552147239264,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 34.125,
+              "age": 24.125
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 37.625,
+              "age": 27.375
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 37.5,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 36.625,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 32.75,
+              "age": 26.25
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 35.25,
+              "age": 25.375
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.6018957345971564,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 10,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 36.708333333333336,
+          "activeAge": 25.479166666666668,
+          "activeUnder24": 7,
+          "activeOver34": 0,
+          "activeMaxTalent": 46,
+          "freeCount": 180,
+          "freeTalent": 26.233333333333334,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 34.75,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 38.375,
+              "age": 26.25
+            },
+            {
+              "id": "t2",
+              "w": 22,
+              "talent": 38.375,
+              "age": 26
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 38.375,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 14,
+              "talent": 34,
+              "age": 25
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 36.375,
+              "age": 26.375
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 15,
+          "development": 0.42543859649122806,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        }
+      ],
+      "uniqueChampions": 4
+    },
+    {
+      "seed": 91206,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 26.5625,
+          "activeAge": 26.604166666666668,
+          "activeUnder24": 8,
+          "activeOver34": 0,
+          "activeMaxTalent": 35,
+          "freeCount": 12,
+          "freeTalent": 17.916666666666668,
+          "npcWinSpread": 3,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 26.25,
+              "age": 26.625
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 25.625,
+              "age": 26
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 26.875,
+              "age": 27
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 26.875,
+              "age": 27.125
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 26.875,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 26.875,
+              "age": 27.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": -0.2,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 2,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 28.854166666666668,
+          "activeAge": 25.354166666666668,
+          "activeUnder24": 17,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 31,
+          "freeTalent": 18.93548387096774,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 28,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 28,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 28.75,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 29.25,
+              "age": 26.5
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 30.5,
+              "age": 25.5
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 28.625,
+              "age": 26.125
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 1
+          },
+          "retirements": 3,
+          "development": 0.21518987341772153,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 3,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 29.6875,
+          "activeAge": 24.854166666666668,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 52,
+          "freeTalent": 20.615384615384617,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 29.125,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 21,
+              "talent": 30.875,
+              "age": 23.5
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 28.75,
+              "age": 24.375
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 30.375,
+              "age": 26
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 30.75,
+              "age": 26.375
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 28.25,
+              "age": 25
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 1
+          },
+          "retirements": 4,
+          "development": 0.28,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 4,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 30.833333333333332,
+          "activeAge": 24.479166666666668,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 72,
+          "freeTalent": 21.569444444444443,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 30.5,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 12,
+              "talent": 31.875,
+              "age": 24.25
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 30.375,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 23,
+              "talent": 32.375,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 30.375,
+              "age": 25.875
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 29.5,
+              "age": 24.75
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.425,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 5,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 31.6875,
+          "activeAge": 24.416666666666668,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 88,
+          "freeTalent": 22.272727272727273,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 33,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 32.25,
+              "age": 24.625
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 31.25,
+              "age": 23.25
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 32.75,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 30.75,
+              "age": 25.125
+            },
+            {
+              "id": "t5",
+              "w": 10,
+              "talent": 30.125,
+              "age": 23.875
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.3088235294117647,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 6,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 32.416666666666664,
+          "activeAge": 24.729166666666668,
+          "activeUnder24": 18,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 103,
+          "freeTalent": 22.78640776699029,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 23,
+              "talent": 33.625,
+              "age": 25.125
+            },
+            {
+              "id": "t1",
+              "w": 11,
+              "talent": 31.875,
+              "age": 24.75
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 33.625,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 32.875,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 30.875,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 31.625,
+              "age": 23.625
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.45695364238410596,
+          "rookieCount": 24,
+          "rookieTalent": 23.333333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t5",
+          "streak": 2,
+          "activeTalent": 33,
+          "activeAge": 25.0625,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 118,
+          "freeTalent": 23.76271186440678,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 32.875,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 33.25,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 32.375,
+              "age": 25.625
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 34,
+              "age": 25.875
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 31.25,
+              "age": 24.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 34.25,
+              "age": 24.5
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": 0.6265060240963856,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        },
+        {
+          "season": 8,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 34.4375,
+          "activeAge": 25.625,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 48,
+          "freeCount": 140,
+          "freeTalent": 24.257142857142856,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 34.75,
+              "age": 25.25
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 34.375,
+              "age": 24.625
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 33.875,
+              "age": 25.75
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 34.125,
+              "age": 27.5
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 34.5,
+              "age": 25.25
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 35,
+              "age": 25.375
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.574468085106383,
+          "rookieCount": 24,
+          "rookieTalent": 24.166666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 35.291666666666664,
+          "activeAge": 26.4375,
+          "activeUnder24": 7,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 160,
+          "freeTalent": 24.66875,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 35.125,
+              "age": 25.125
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 35.5,
+              "age": 26
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 34.75,
+              "age": 26.875
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 34.75,
+              "age": 28.25
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 34.75,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 36.875,
+              "age": 26.625
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.47596153846153844,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 10,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 35.479166666666664,
+          "activeAge": 26.291666666666668,
+          "activeUnder24": 9,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 178,
+          "freeTalent": 25.174157303370787,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 20,
+              "talent": 35.75,
+              "age": 25.5
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 36.375,
+              "age": 26.5
+            },
+            {
+              "id": "t2",
+              "w": 10,
+              "talent": 35.125,
+              "age": 25.5
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 34.5,
+              "age": 28.125
+            },
+            {
+              "id": "t4",
+              "w": 12,
+              "talent": 35,
+              "age": 25.5
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 36.125,
+              "age": 26.625
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.4823008849557522,
+          "rookieCount": 24,
+          "rookieTalent": 22.291666666666668
+        }
+      ],
+      "uniqueChampions": 5
+    },
+    {
+      "seed": 91207,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 25.833333333333332,
+          "activeAge": 26.958333333333332,
+          "activeUnder24": 8,
+          "activeOver34": 0,
+          "activeMaxTalent": 35,
+          "freeCount": 12,
+          "freeTalent": 17.916666666666668,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 26.25,
+              "age": 27.625
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 25.625,
+              "age": 28.375
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 25.625,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 26.25,
+              "age": 25.375
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 25,
+              "age": 26.25
+            },
+            {
+              "id": "t5",
+              "w": 12,
+              "talent": 26.25,
+              "age": 28
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.23333333333333334,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 2,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 26.958333333333332,
+          "activeAge": 25.166666666666668,
+          "activeUnder24": 16,
+          "activeOver34": 0,
+          "activeMaxTalent": 36,
+          "freeCount": 28,
+          "freeTalent": 19.642857142857142,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 20,
+              "talent": 26.75,
+              "age": 26
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 25.625,
+              "age": 26.875
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 27.125,
+              "age": 24
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 27.875,
+              "age": 23.125
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 27.625,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 26.75,
+              "age": 26.75
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.14473684210526316,
+          "rookieCount": 24,
+          "rookieTalent": 26.666666666666668
+        },
+        {
+          "season": 3,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 28.541666666666668,
+          "activeAge": 24.104166666666668,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 49,
+          "freeTalent": 21.591836734693878,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 28.5,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 25.5,
+              "age": 25.125
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 30.25,
+              "age": 23.875
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 29.375,
+              "age": 23.125
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 29.75,
+              "age": 22.875
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 27.875,
+              "age": 24.875
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.20618556701030927,
+          "rookieCount": 24,
+          "rookieTalent": 25.833333333333332
+        },
+        {
+          "season": 4,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 30.375,
+          "activeAge": 23.75,
+          "activeUnder24": 27,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 67,
+          "freeTalent": 22.328358208955223,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 28.75,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 28.875,
+              "age": 23.75
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 32,
+              "age": 24
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 31.75,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 12,
+              "talent": 32.125,
+              "age": 22.625
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 28.75,
+              "age": 23.875
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.3130434782608696,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 5,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 31.354166666666668,
+          "activeAge": 23.604166666666668,
+          "activeUnder24": 26,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 88,
+          "freeTalent": 22.886363636363637,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 7,
+              "talent": 29.5,
+              "age": 23.5
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 29.25,
+              "age": 23.25
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 32.75,
+              "age": 24.375
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 32.625,
+              "age": 23.5
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 34.625,
+              "age": 23.25
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 29.375,
+              "age": 23.75
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.21323529411764705,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 6,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 32.020833333333336,
+          "activeAge": 24.270833333333332,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 105,
+          "freeTalent": 23.21904761904762,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 30.5,
+              "age": 24.125
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 30.25,
+              "age": 24.25
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 33.375,
+              "age": 25.5
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 34,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 21,
+              "talent": 35.25,
+              "age": 23.75
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 28.75,
+              "age": 23.75
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.2679738562091503,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 32.770833333333336,
+          "activeAge": 24.375,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 123,
+          "freeTalent": 23.78048780487805,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 31.375,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 12,
+              "talent": 31.75,
+              "age": 23.875
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 33.375,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 34.375,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 36.125,
+              "age": 24.375
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 29.625,
+              "age": 24.5
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 1,
+          "development": 0.3567251461988304,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 8,
+          "winner": "t4",
+          "streak": 2,
+          "activeTalent": 33.729166666666664,
+          "activeAge": 24.979166666666668,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 47,
+          "freeCount": 146,
+          "freeTalent": 23.801369863013697,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.25,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 34,
+              "age": 23.875
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 33.625,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 34.75,
+              "age": 26.375
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 36,
+              "age": 25.125
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 31.75,
+              "age": 24.75
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 10,
+          "development": 0.39690721649484534,
+          "rookieCount": 24,
+          "rookieTalent": 21.666666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t4",
+          "streak": 3,
+          "activeTalent": 34.854166666666664,
+          "activeAge": 25.5625,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 48,
+          "freeCount": 160,
+          "freeTalent": 23.89375,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.875,
+              "age": 25.375
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 35.75,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 34.875,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 35.875,
+              "age": 27.5
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 38.375,
+              "age": 26.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 31.375,
+              "age": 23
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 1
+          },
+          "retirements": 8,
+          "development": 0.3701923076923077,
+          "rookieCount": 24,
+          "rookieTalent": 25.416666666666668
+        },
+        {
+          "season": 10,
+          "winner": "t4",
+          "streak": 4,
+          "activeTalent": 35.375,
+          "activeAge": 25.5625,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 49,
+          "freeCount": 176,
+          "freeTalent": 24.642045454545453,
+          "npcWinSpread": 14,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.75,
+              "age": 25
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 37.5,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 8,
+              "talent": 34.875,
+              "age": 26.25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.625,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 22,
+              "talent": 39.125,
+              "age": 27
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 33.375,
+              "age": 24.5
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.45982142857142855,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        }
+      ],
+      "uniqueChampions": 5
+    },
+    {
+      "seed": 91208,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 25.3125,
+          "activeAge": 26.354166666666668,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 15.833333333333334,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 20,
+              "talent": 26.25,
+              "age": 26.875
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 25.625,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 26.875,
+              "age": 26.625
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 25,
+              "age": 24.375
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 25.625,
+              "age": 28.25
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 22.5,
+              "age": 26.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.08333333333333333,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 2,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 27.0625,
+          "activeAge": 24.916666666666668,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 31,
+          "freeTalent": 18.806451612903224,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 27,
+              "age": 26.25
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 26,
+              "age": 24.125
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 27.375,
+              "age": 25.875
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 28.5,
+              "age": 24.25
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 27.5,
+              "age": 25.125
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 26,
+              "age": 23.875
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.569620253164557,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 3,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 28.020833333333332,
+          "activeAge": 23.8125,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 51,
+          "freeTalent": 21.15686274509804,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 27.125,
+              "age": 25
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 28.25,
+              "age": 22.5
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 27,
+              "age": 23.625
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 30.125,
+              "age": 23.375
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 28.375,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 27.25,
+              "age": 24.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 5,
+          "development": 0.4444444444444444,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 4,
+          "winner": "t4",
+          "streak": 2,
+          "activeTalent": 29.541666666666668,
+          "activeAge": 23.354166666666668,
+          "activeUnder24": 31,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 70,
+          "freeTalent": 22.085714285714285,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 11,
+              "talent": 28,
+              "age": 23.125
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 29,
+              "age": 22.75
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 30.5,
+              "age": 22.875
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 31,
+              "age": 23.25
+            },
+            {
+              "id": "t4",
+              "w": 21,
+              "talent": 29.625,
+              "age": 24.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 29.125,
+              "age": 23.75
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.5932203389830508,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 5,
+          "winner": "t4",
+          "streak": 3,
+          "activeTalent": 30.833333333333332,
+          "activeAge": 23.604166666666668,
+          "activeUnder24": 27,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 89,
+          "freeTalent": 23,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 30.25,
+              "age": 23.5
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 30.875,
+              "age": 23.125
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 31.125,
+              "age": 23.375
+            },
+            {
+              "id": "t3",
+              "w": 21,
+              "talent": 32.125,
+              "age": 23.5
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 30,
+              "age": 25.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 30.625,
+              "age": 22.75
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.6204379562043796,
+          "rookieCount": 24,
+          "rookieTalent": 23.333333333333332
+        },
+        {
+          "season": 6,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 31.729166666666668,
+          "activeAge": 24.3125,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 110,
+          "freeTalent": 23.672727272727272,
+          "npcWinSpread": 15,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 30.75,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 27,
+              "talent": 32.875,
+              "age": 24.25
+            },
+            {
+              "id": "t2",
+              "w": 12,
+              "talent": 32.625,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 32.25,
+              "age": 24.375
+            },
+            {
+              "id": "t4",
+              "w": 12,
+              "talent": 30.625,
+              "age": 26.25
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 31.25,
+              "age": 23.125
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.5632911392405063,
+          "rookieCount": 24,
+          "rookieTalent": 25.208333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 32.1875,
+          "activeAge": 24.770833333333332,
+          "activeUnder24": 18,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 131,
+          "freeTalent": 24.541984732824428,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 11,
+              "talent": 30.5,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 33,
+              "age": 24.375
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 35.125,
+              "age": 26.375
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 32.5,
+              "age": 25.25
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 30.125,
+              "age": 25.25
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.875,
+              "age": 23.625
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 10,
+          "development": 0.39664804469273746,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 8,
+          "winner": "t1",
+          "streak": 2,
+          "activeTalent": 33,
+          "activeAge": 25.1875,
+          "activeUnder24": 14,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 145,
+          "freeTalent": 24.889655172413793,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 32.125,
+              "age": 24
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 33,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 35.75,
+              "age": 27.75
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 32.625,
+              "age": 25.125
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 32.625,
+              "age": 24.625
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.875,
+              "age": 24.625
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 1
+          },
+          "retirements": 7,
+          "development": 0.47150259067357514,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 33.791666666666664,
+          "activeAge": 25.75,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 162,
+          "freeTalent": 25.179012345679013,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 32.75,
+              "age": 24.5
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 33.625,
+              "age": 25.5
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 36.125,
+              "age": 27.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 33.5,
+              "age": 27.125
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 33.375,
+              "age": 24.5
+            },
+            {
+              "id": "t5",
+              "w": 16,
+              "talent": 33.375,
+              "age": 25.75
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 9,
+          "development": 0.29523809523809524,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 10,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 34.479166666666664,
+          "activeAge": 25.770833333333332,
+          "activeUnder24": 9,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 177,
+          "freeTalent": 25.316384180790962,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 33.5,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 33.375,
+              "age": 26.25
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 36.875,
+              "age": 25.875
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.625,
+              "age": 24.875
+            },
+            {
+              "id": "t4",
+              "w": 14,
+              "talent": 34.25,
+              "age": 26.625
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 34.25,
+              "age": 26.375
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 10,
+          "development": 0.2577777777777778,
+          "rookieCount": 24,
+          "rookieTalent": 24.166666666666668
+        }
+      ],
+      "uniqueChampions": 5
+    },
+    {
+      "seed": 91209,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 26.354166666666668,
+          "activeAge": 26.479166666666668,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 35,
+          "freeCount": 12,
+          "freeTalent": 18.333333333333332,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 26.25,
+              "age": 28.75
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 26.25,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 10,
+              "talent": 25.625,
+              "age": 25.25
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 26.25,
+              "age": 26
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 27.5,
+              "age": 26.5
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 26.25,
+              "age": 26.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": 0,
+          "rookieCount": 24,
+          "rookieTalent": 25.625
+        },
+        {
+          "season": 2,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 28.895833333333332,
+          "activeAge": 25.458333333333332,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 34,
+          "freeTalent": 19.705882352941178,
+          "npcWinSpread": 7,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 27.75,
+              "age": 27.5
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 28.875,
+              "age": 25.25
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 29.875,
+              "age": 25.125
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 28.5,
+              "age": 23.875
+            },
+            {
+              "id": "t4",
+              "w": 20,
+              "talent": 30.5,
+              "age": 25.125
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 27.875,
+              "age": 25.875
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": 0.23170731707317074,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 3,
+          "winner": "t3",
+          "streak": 2,
+          "activeTalent": 30.458333333333332,
+          "activeAge": 24.354166666666668,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 56,
+          "freeTalent": 21.196428571428573,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 29.5,
+              "age": 25.625
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 29.5,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 31.875,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 30.375,
+              "age": 23.125
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 30.5,
+              "age": 24
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 31,
+              "age": 24.375
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.27884615384615385,
+          "rookieCount": 24,
+          "rookieTalent": 26.25
+        },
+        {
+          "season": 4,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 32.083333333333336,
+          "activeAge": 23.854166666666668,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 41,
+          "freeCount": 74,
+          "freeTalent": 22.175675675675677,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 31.375,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 33.625,
+              "age": 23.375
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 32.625,
+              "age": 25.375
+            },
+            {
+              "id": "t3",
+              "w": 16,
+              "talent": 31.875,
+              "age": 22.25
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 31.75,
+              "age": 23.625
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 31.25,
+              "age": 24.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.4016393442622951,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 32.354166666666664,
+          "activeAge": 23.895833333333332,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 94,
+          "freeTalent": 23.340425531914892,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 30.875,
+              "age": 23.375
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 33.25,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 18,
+              "talent": 33.625,
+              "age": 26
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 32.875,
+              "age": 22.75
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 32.75,
+              "age": 23.875
+            },
+            {
+              "id": "t5",
+              "w": 11,
+              "talent": 30.75,
+              "age": 23.375
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 12,
+          "development": 0.34507042253521125,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 6,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 33.520833333333336,
+          "activeAge": 24.104166666666668,
+          "activeUnder24": 20,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 106,
+          "freeTalent": 24.40566037735849,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 9,
+              "talent": 30.75,
+              "age": 23.375
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 34.25,
+              "age": 25
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 35.625,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 34,
+              "age": 23.625
+            },
+            {
+              "id": "t4",
+              "w": 22,
+              "talent": 33.75,
+              "age": 24.25
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 32.75,
+              "age": 23.75
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.6233766233766234,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 34.770833333333336,
+          "activeAge": 24.875,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 127,
+          "freeTalent": 24.818897637795274,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.625,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 22,
+              "talent": 34.875,
+              "age": 25.875
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 36.875,
+              "age": 24.75
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.75,
+              "age": 25.125
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 35,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 34.5,
+              "age": 24
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.3485714285714286,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 8,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 35.5625,
+          "activeAge": 25.4375,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 143,
+          "freeTalent": 25.13986013986014,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 32.75,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 36,
+              "age": 26.75
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 37.375,
+              "age": 25.375
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 36.5,
+              "age": 25.875
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 34.75,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 36,
+              "age": 25.125
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.35602094240837695,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 9,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 36.1875,
+          "activeAge": 26.083333333333332,
+          "activeUnder24": 9,
+          "activeOver34": 0,
+          "activeMaxTalent": 46,
+          "freeCount": 159,
+          "freeTalent": 25.41509433962264,
+          "npcWinSpread": 5,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 33.25,
+              "age": 24
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 36.375,
+              "age": 28.25
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 38.25,
+              "age": 27.375
+            },
+            {
+              "id": "t3",
+              "w": 19,
+              "talent": 36,
+              "age": 25.125
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 36.75,
+              "age": 26.625
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 36.5,
+              "age": 25.125
+            }
+          ],
+          "turnover": 4,
+          "moves": {
+            "npc_sign": 4,
+            "npc_release": 4,
+            "npc_trade": 0
+          },
+          "retirements": 1,
+          "development": 0.34782608695652173,
+          "rookieCount": 24,
+          "rookieTalent": 23.958333333333332
+        },
+        {
+          "season": 10,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 36.5,
+          "activeAge": 26.458333333333332,
+          "activeUnder24": 9,
+          "activeOver34": 0,
+          "activeMaxTalent": 46,
+          "freeCount": 182,
+          "freeTalent": 25.560439560439562,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 13,
+              "talent": 36,
+              "age": 24.5
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 35.875,
+              "age": 28.625
+            },
+            {
+              "id": "t2",
+              "w": 20,
+              "talent": 37,
+              "age": 27.5
+            },
+            {
+              "id": "t3",
+              "w": 15,
+              "talent": 35.875,
+              "age": 26.25
+            },
+            {
+              "id": "t4",
+              "w": 25,
+              "talent": 36.625,
+              "age": 26.375
+            },
+            {
+              "id": "t5",
+              "w": 12,
+              "talent": 37.625,
+              "age": 25.5
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.23478260869565218,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        }
+      ],
+      "uniqueChampions": 4
+    },
+    {
+      "seed": 91210,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 26.354166666666668,
+          "activeAge": 25.645833333333332,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 17.5,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 20,
+              "talent": 27.5,
+              "age": 27.25
+            },
+            {
+              "id": "t1",
+              "w": 17,
+              "talent": 26.25,
+              "age": 24.5
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 26.25,
+              "age": 26.25
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 25.625,
+              "age": 25.5
+            },
+            {
+              "id": "t4",
+              "w": 14,
+              "talent": 26.25,
+              "age": 26.25
+            },
+            {
+              "id": "t5",
+              "w": 11,
+              "talent": 26.25,
+              "age": 24.125
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.5,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 2,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 27.958333333333332,
+          "activeAge": 24.666666666666668,
+          "activeUnder24": 18,
+          "activeOver34": 0,
+          "activeMaxTalent": 39,
+          "freeCount": 31,
+          "freeTalent": 20.580645161290324,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 28.5,
+              "age": 26
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 28,
+              "age": 24.25
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 26,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 28.5,
+              "age": 25
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 27.625,
+              "age": 24.375
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 29.125,
+              "age": 23.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 1
+          },
+          "retirements": 4,
+          "development": 0.620253164556962,
+          "rookieCount": 24,
+          "rookieTalent": 23.333333333333332
+        },
+        {
+          "season": 3,
+          "winner": "t3",
+          "streak": 1,
+          "activeTalent": 29.625,
+          "activeAge": 24.041666666666668,
+          "activeUnder24": 23,
+          "activeOver34": 0,
+          "activeMaxTalent": 37,
+          "freeCount": 51,
+          "freeTalent": 21.333333333333332,
+          "npcWinSpread": 8,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 30.125,
+              "age": 25
+            },
+            {
+              "id": "t1",
+              "w": 22,
+              "talent": 29,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 28.75,
+              "age": 24.125
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 30.5,
+              "age": 24.125
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 29.5,
+              "age": 23.5
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 29.875,
+              "age": 23.5
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": 0.25252525252525254,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 4,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 30.229166666666668,
+          "activeAge": 23.770833333333332,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 73,
+          "freeTalent": 22,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 26,
+              "talent": 31.375,
+              "age": 23.75
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 29.125,
+              "age": 24.125
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 30.75,
+              "age": 23.75
+            },
+            {
+              "id": "t3",
+              "w": 11,
+              "talent": 30.5,
+              "age": 24.125
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 29.25,
+              "age": 23.25
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 30.375,
+              "age": 23.625
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.38016528925619836,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 5,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 31.020833333333332,
+          "activeAge": 24.520833333333332,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 44,
+          "freeCount": 93,
+          "freeTalent": 22.56989247311828,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 9,
+              "talent": 32,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 19,
+              "talent": 30.875,
+              "age": 26
+            },
+            {
+              "id": "t2",
+              "w": 24,
+              "talent": 32,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 31.375,
+              "age": 24.5
+            },
+            {
+              "id": "t4",
+              "w": 16,
+              "talent": 29.5,
+              "age": 23.75
+            },
+            {
+              "id": "t5",
+              "w": 11,
+              "talent": 30.375,
+              "age": 23.625
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.44680851063829785,
+          "rookieCount": 24,
+          "rookieTalent": 22.916666666666668
+        },
+        {
+          "season": 6,
+          "winner": "t2",
+          "streak": 2,
+          "activeTalent": 31.583333333333332,
+          "activeAge": 24.666666666666668,
+          "activeUnder24": 21,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 113,
+          "freeTalent": 23.008849557522122,
+          "npcWinSpread": 14,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 33,
+              "age": 25.25
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 30.75,
+              "age": 25.375
+            },
+            {
+              "id": "t2",
+              "w": 23,
+              "talent": 31.875,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 9,
+              "talent": 31.625,
+              "age": 25.5
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 30.5,
+              "age": 23.25
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 31.75,
+              "age": 24
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 7,
+          "development": 0.32919254658385094,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 7,
+          "winner": "t2",
+          "streak": 3,
+          "activeTalent": 32.895833333333336,
+          "activeAge": 24.645833333333332,
+          "activeUnder24": 19,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 130,
+          "freeTalent": 23.346153846153847,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 14,
+              "talent": 32.75,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 16,
+              "talent": 33,
+              "age": 25.625
+            },
+            {
+              "id": "t2",
+              "w": 14,
+              "talent": 32.375,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 33.375,
+              "age": 25
+            },
+            {
+              "id": "t4",
+              "w": 22,
+              "talent": 33.375,
+              "age": 24.5
+            },
+            {
+              "id": "t5",
+              "w": 13,
+              "talent": 32.5,
+              "age": 24.625
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 1
+          },
+          "retirements": 8,
+          "development": 0.37640449438202245,
+          "rookieCount": 24,
+          "rookieTalent": 23.125
+        },
+        {
+          "season": 8,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 33.395833333333336,
+          "activeAge": 24.791666666666668,
+          "activeUnder24": 16,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 146,
+          "freeTalent": 23.60958904109589,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 33.375,
+              "age": 24.75
+            },
+            {
+              "id": "t1",
+              "w": 24,
+              "talent": 33.375,
+              "age": 25.25
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 32.75,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 33.625,
+              "age": 25.125
+            },
+            {
+              "id": "t4",
+              "w": 13,
+              "talent": 33.875,
+              "age": 24.75
+            },
+            {
+              "id": "t5",
+              "w": 14,
+              "talent": 33.375,
+              "age": 24.625
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.41237113402061853,
+          "rookieCount": 24,
+          "rookieTalent": 26.666666666666668
+        },
+        {
+          "season": 9,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 34.916666666666664,
+          "activeAge": 25.020833333333332,
+          "activeUnder24": 17,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 162,
+          "freeTalent": 24.12962962962963,
+          "npcWinSpread": 15,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 19,
+              "talent": 32.875,
+              "age": 24
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 35,
+              "age": 25.75
+            },
+            {
+              "id": "t2",
+              "w": 13,
+              "talent": 34.75,
+              "age": 24.625
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 35,
+              "age": 26.125
+            },
+            {
+              "id": "t4",
+              "w": 7,
+              "talent": 35.875,
+              "age": 24.375
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 36,
+              "age": 25.25
+            }
+          ],
+          "turnover": 2,
+          "moves": {
+            "npc_sign": 2,
+            "npc_release": 2,
+            "npc_trade": 0
+          },
+          "retirements": 5,
+          "development": 0.4666666666666667,
+          "rookieCount": 24,
+          "rookieTalent": 25.416666666666668
+        },
+        {
+          "season": 10,
+          "winner": "t5",
+          "streak": 2,
+          "activeTalent": 36.25,
+          "activeAge": 25.375,
+          "activeUnder24": 12,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 181,
+          "freeTalent": 24.61878453038674,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 12,
+              "talent": 33.625,
+              "age": 23.625
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 35.625,
+              "age": 26.875
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 36.625,
+              "age": 25
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 35.625,
+              "age": 25.625
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 38.5,
+              "age": 25
+            },
+            {
+              "id": "t5",
+              "w": 22,
+              "talent": 37.5,
+              "age": 26.125
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 14,
+          "development": 0.4017467248908297,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        }
+      ],
+      "uniqueChampions": 6
+    },
+    {
+      "seed": 91211,
+      "seasons": [
+        {
+          "season": 1,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 27.395833333333332,
+          "activeAge": 26.395833333333332,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 40,
+          "freeCount": 12,
+          "freeTalent": 17.916666666666668,
+          "npcWinSpread": 4,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 28.125,
+              "age": 26.75
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 26.25,
+              "age": 25.625
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 27.5,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 18,
+              "talent": 28.125,
+              "age": 26.875
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 26.875,
+              "age": 26.375
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 27.5,
+              "age": 26.625
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 0
+          },
+          "retirements": 2,
+          "development": -0.1,
+          "rookieCount": 24,
+          "rookieTalent": 27.5
+        },
+        {
+          "season": 2,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 29.729166666666668,
+          "activeAge": 25.291666666666668,
+          "activeUnder24": 15,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 34,
+          "freeTalent": 21.264705882352942,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 29.875,
+              "age": 26.125
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 31.25,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 29.125,
+              "age": 24.875
+            },
+            {
+              "id": "t3",
+              "w": 10,
+              "talent": 29,
+              "age": 25.75
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 27.625,
+              "age": 25.625
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 31.5,
+              "age": 25.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.3048780487804878,
+          "rookieCount": 24,
+          "rookieTalent": 24.583333333333332
+        },
+        {
+          "season": 3,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 30.520833333333332,
+          "activeAge": 23.979166666666668,
+          "activeUnder24": 22,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 54,
+          "freeTalent": 22.185185185185187,
+          "npcWinSpread": 12,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 30,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 31.75,
+              "age": 22.75
+            },
+            {
+              "id": "t2",
+              "w": 9,
+              "talent": 29.625,
+              "age": 24.25
+            },
+            {
+              "id": "t3",
+              "w": 13,
+              "talent": 30.25,
+              "age": 25
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 28.625,
+              "age": 23.375
+            },
+            {
+              "id": "t5",
+              "w": 21,
+              "talent": 32.875,
+              "age": 23.875
+            }
+          ],
+          "turnover": 0,
+          "moves": {
+            "npc_sign": 0,
+            "npc_release": 0,
+            "npc_trade": 1
+          },
+          "retirements": 4,
+          "development": 0.29411764705882354,
+          "rookieCount": 24,
+          "rookieTalent": 24.166666666666668
+        },
+        {
+          "season": 4,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 31.1875,
+          "activeAge": 24.083333333333332,
+          "activeUnder24": 25,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 74,
+          "freeTalent": 22.95945945945946,
+          "npcWinSpread": 13,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 18,
+              "talent": 30.125,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 11,
+              "talent": 32.875,
+              "age": 23.625
+            },
+            {
+              "id": "t2",
+              "w": 23,
+              "talent": 32.5,
+              "age": 24.5
+            },
+            {
+              "id": "t3",
+              "w": 10,
+              "talent": 30.125,
+              "age": 24.375
+            },
+            {
+              "id": "t4",
+              "w": 17,
+              "talent": 28.375,
+              "age": 23.25
+            },
+            {
+              "id": "t5",
+              "w": 20,
+              "talent": 33.125,
+              "age": 24.375
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 3,
+          "development": 0.4672131147540984,
+          "rookieCount": 24,
+          "rookieTalent": 25.416666666666668
+        },
+        {
+          "season": 5,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 31.854166666666668,
+          "activeAge": 24.1875,
+          "activeUnder24": 22,
+          "activeOver34": 1,
+          "activeMaxTalent": 43,
+          "freeCount": 95,
+          "freeTalent": 23.936842105263157,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 15,
+              "talent": 29.875,
+              "age": 23.875
+            },
+            {
+              "id": "t1",
+              "w": 13,
+              "talent": 32.5,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 21,
+              "talent": 33.75,
+              "age": 25.5
+            },
+            {
+              "id": "t3",
+              "w": 20,
+              "talent": 31.75,
+              "age": 23.75
+            },
+            {
+              "id": "t4",
+              "w": 11,
+              "talent": 29,
+              "age": 22.875
+            },
+            {
+              "id": "t5",
+              "w": 19,
+              "talent": 34.25,
+              "age": 25.125
+            }
+          ],
+          "turnover": 1,
+          "moves": {
+            "npc_sign": 1,
+            "npc_release": 1,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.3146853146853147,
+          "rookieCount": 24,
+          "rookieTalent": 23.75
+        },
+        {
+          "season": 6,
+          "winner": "t2",
+          "streak": 1,
+          "activeTalent": 32.729166666666664,
+          "activeAge": 24.770833333333332,
+          "activeUnder24": 17,
+          "activeOver34": 0,
+          "activeMaxTalent": 46,
+          "freeCount": 113,
+          "freeTalent": 24.061946902654867,
+          "npcWinSpread": 11,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 30.5,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 14,
+              "talent": 33.25,
+              "age": 23.5
+            },
+            {
+              "id": "t2",
+              "w": 19,
+              "talent": 35,
+              "age": 26
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 32.875,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 15,
+              "talent": 29.875,
+              "age": 23.5
+            },
+            {
+              "id": "t5",
+              "w": 23,
+              "talent": 34.875,
+              "age": 26.125
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 11,
+          "development": 0.5652173913043478,
+          "rookieCount": 24,
+          "rookieTalent": 23.333333333333332
+        },
+        {
+          "season": 7,
+          "winner": "t5",
+          "streak": 1,
+          "activeTalent": 33.875,
+          "activeAge": 25.375,
+          "activeUnder24": 13,
+          "activeOver34": 0,
+          "activeMaxTalent": 48,
+          "freeCount": 126,
+          "freeTalent": 24.73015873015873,
+          "npcWinSpread": 9,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 9,
+              "talent": 30.125,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 15,
+              "talent": 34.375,
+              "age": 24
+            },
+            {
+              "id": "t2",
+              "w": 17,
+              "talent": 35.125,
+              "age": 26.125
+            },
+            {
+              "id": "t3",
+              "w": 17,
+              "talent": 34.625,
+              "age": 25.5
+            },
+            {
+              "id": "t4",
+              "w": 24,
+              "talent": 32.5,
+              "age": 25
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 36.5,
+              "age": 27
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.4482758620689655,
+          "rookieCount": 24,
+          "rookieTalent": 23.541666666666668
+        },
+        {
+          "season": 8,
+          "winner": "t4",
+          "streak": 1,
+          "activeTalent": 34.625,
+          "activeAge": 25.979166666666668,
+          "activeUnder24": 10,
+          "activeOver34": 0,
+          "activeMaxTalent": 45,
+          "freeCount": 144,
+          "freeTalent": 24.88888888888889,
+          "npcWinSpread": 10,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 31.75,
+              "age": 24.625
+            },
+            {
+              "id": "t1",
+              "w": 21,
+              "talent": 35.375,
+              "age": 25.5
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 35.75,
+              "age": 26.5
+            },
+            {
+              "id": "t3",
+              "w": 11,
+              "talent": 35,
+              "age": 26.5
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 33.375,
+              "age": 25.75
+            },
+            {
+              "id": "t5",
+              "w": 17,
+              "talent": 36.5,
+              "age": 27
+            }
+          ],
+          "turnover": 6,
+          "moves": {
+            "npc_sign": 6,
+            "npc_release": 6,
+            "npc_trade": 0
+          },
+          "retirements": 4,
+          "development": 0.296875,
+          "rookieCount": 24,
+          "rookieTalent": 24.375
+        },
+        {
+          "season": 9,
+          "winner": "t1",
+          "streak": 1,
+          "activeTalent": 34.458333333333336,
+          "activeAge": 25.854166666666668,
+          "activeUnder24": 11,
+          "activeOver34": 0,
+          "activeMaxTalent": 42,
+          "freeCount": 164,
+          "freeTalent": 25.25609756097561,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 16,
+              "talent": 31.875,
+              "age": 24.375
+            },
+            {
+              "id": "t1",
+              "w": 20,
+              "talent": 36.125,
+              "age": 26
+            },
+            {
+              "id": "t2",
+              "w": 15,
+              "talent": 34.125,
+              "age": 26.25
+            },
+            {
+              "id": "t3",
+              "w": 14,
+              "talent": 33.125,
+              "age": 24.625
+            },
+            {
+              "id": "t4",
+              "w": 19,
+              "talent": 35.25,
+              "age": 26.25
+            },
+            {
+              "id": "t5",
+              "w": 15,
+              "talent": 36.25,
+              "age": 27.625
+            }
+          ],
+          "turnover": 3,
+          "moves": {
+            "npc_sign": 3,
+            "npc_release": 3,
+            "npc_trade": 0
+          },
+          "retirements": 6,
+          "development": 0.3490566037735849,
+          "rookieCount": 24,
+          "rookieTalent": 25
+        },
+        {
+          "season": 10,
+          "winner": "t0",
+          "streak": 1,
+          "activeTalent": 35.875,
+          "activeAge": 26.25,
+          "activeUnder24": 7,
+          "activeOver34": 0,
+          "activeMaxTalent": 43,
+          "freeCount": 182,
+          "freeTalent": 25.494505494505493,
+          "npcWinSpread": 6,
+          "teams": [
+            {
+              "id": "t0",
+              "w": 17,
+              "talent": 33.625,
+              "age": 24.875
+            },
+            {
+              "id": "t1",
+              "w": 18,
+              "talent": 36.875,
+              "age": 26.625
+            },
+            {
+              "id": "t2",
+              "w": 16,
+              "talent": 36.375,
+              "age": 26.625
+            },
+            {
+              "id": "t3",
+              "w": 12,
+              "talent": 35.25,
+              "age": 25.375
+            },
+            {
+              "id": "t4",
+              "w": 18,
+              "talent": 36.375,
+              "age": 27
+            },
+            {
+              "id": "t5",
+              "w": 18,
+              "talent": 36.75,
+              "age": 27
+            }
+          ],
+          "turnover": 5,
+          "moves": {
+            "npc_sign": 5,
+            "npc_release": 5,
+            "npc_trade": 0
+          },
+          "retirements": 8,
+          "development": 0.3217391304347826,
+          "rookieCount": 24,
+          "rookieTalent": 24.791666666666668
+        }
+      ],
+      "uniqueChampions": 5
+    }
+  ],
+  "summary": {
+    "uniqueChampions": 4.583333333333333,
+    "maxStreak": 4,
+    "bySeason": [
+      {
+        "season": 1,
+        "activeTalent": 26.293402777777775,
+        "activeAge": 26.493055555555554,
+        "activeUnder24": 9.416666666666666,
+        "activeOver34": 0,
+        "freeCount": 12,
+        "freeTalent": 17.395833333333336,
+        "npcWinSpread": 8.916666666666666,
+        "turnover": 0,
+        "retirements": 5.083333333333333,
+        "development": 0.06388888888888888,
+        "rookieTalent": 24.895833333333332
+      },
+      {
+        "season": 2,
+        "activeTalent": 28.008680555555557,
+        "activeAge": 25.215277777777782,
+        "activeUnder24": 17.166666666666668,
+        "activeOver34": 0,
+        "freeCount": 30.916666666666668,
+        "freeTalent": 20.01838741993213,
+        "npcWinSpread": 7.583333333333333,
+        "turnover": 1.4166666666666667,
+        "retirements": 4.833333333333333,
+        "development": 0.32349684768854625,
+        "rookieTalent": 24.44444444444444
+      },
+      {
+        "season": 3,
+        "activeTalent": 29.190972222222218,
+        "activeAge": 24.180555555555557,
+        "activeUnder24": 22.416666666666668,
+        "activeOver34": 0,
+        "freeCount": 50.083333333333336,
+        "freeTalent": 21.51588311782716,
+        "npcWinSpread": 8.666666666666666,
+        "turnover": 0.25,
+        "retirements": 4.666666666666667,
+        "development": 0.3745624210194027,
+        "rookieTalent": 24.687500000000004
+      },
+      {
+        "season": 4,
+        "activeTalent": 30.454861111111114,
+        "activeAge": 23.97916666666666,
+        "activeUnder24": 25.25,
+        "activeOver34": 0,
+        "freeCount": 69.41666666666667,
+        "freeTalent": 22.306458226143395,
+        "npcWinSpread": 8.333333333333334,
+        "turnover": 0.5833333333333334,
+        "retirements": 4.916666666666667,
+        "development": 0.45493194441466916,
+        "rookieTalent": 24.23611111111111
+      },
+      {
+        "season": 5,
+        "activeTalent": 31.447916666666668,
+        "activeAge": 24.123263888888886,
+        "activeUnder24": 22.75,
+        "activeOver34": 0.16666666666666666,
+        "freeCount": 88.5,
+        "freeTalent": 23.02688041945311,
+        "npcWinSpread": 9.75,
+        "turnover": 1.3333333333333333,
+        "retirements": 5.75,
+        "development": 0.47241800861699,
+        "rookieTalent": 24.340277777777775
+      },
+      {
+        "season": 6,
+        "activeTalent": 32.411458333333336,
+        "activeAge": 24.342013888888886,
+        "activeUnder24": 20.416666666666668,
+        "activeOver34": 0,
+        "freeCount": 106.75,
+        "freeTalent": 23.706916121088454,
+        "npcWinSpread": 8.25,
+        "turnover": 1.75,
+        "retirements": 5.583333333333333,
+        "development": 0.5266744962696556,
+        "rookieTalent": 24.67013888888889
+      },
+      {
+        "season": 7,
+        "activeTalent": 33.44444444444444,
+        "activeAge": 24.730902777777775,
+        "activeUnder24": 17.583333333333332,
+        "activeOver34": 0.08333333333333333,
+        "freeCount": 125.16666666666667,
+        "freeTalent": 24.340884742346635,
+        "npcWinSpread": 8.583333333333334,
+        "turnover": 2.1666666666666665,
+        "retirements": 5.75,
+        "development": 0.5008561690483689,
+        "rookieTalent": 24.35763888888889
+      },
+      {
+        "season": 8,
+        "activeTalent": 34.38368055555555,
+        "activeAge": 25.090277777777782,
+        "activeUnder24": 15.083333333333334,
+        "activeOver34": 0.08333333333333333,
+        "freeCount": 143.41666666666666,
+        "freeTalent": 24.764256806918493,
+        "npcWinSpread": 7.5,
+        "turnover": 2.4166666666666665,
+        "retirements": 5.75,
+        "development": 0.4820139293629708,
+        "rookieTalent": 23.975694444444443
+      },
+      {
+        "season": 9,
+        "activeTalent": 35.267361111111114,
+        "activeAge": 25.68923611111111,
+        "activeUnder24": 11.083333333333334,
+        "activeOver34": 0.08333333333333333,
+        "freeCount": 161.66666666666666,
+        "freeTalent": 25.103130518163965,
+        "npcWinSpread": 7.083333333333333,
+        "turnover": 4,
+        "retirements": 5.916666666666667,
+        "development": 0.39289014364598973,
+        "rookieTalent": 24.444444444444443
+      },
+      {
+        "season": 10,
+        "activeTalent": 35.939236111111114,
+        "activeAge": 25.911458333333332,
+        "activeUnder24": 9.833333333333334,
+        "activeOver34": 0,
+        "freeCount": 179.75,
+        "freeTalent": 25.427003538396225,
+        "npcWinSpread": 8.5,
+        "turnover": 3.9166666666666665,
+        "retirements": 9.583333333333334,
+        "development": 0.3360381736245391,
+        "rookieTalent": 24.54861111111111
+      }
+    ],
+    "npcWins": {
+      "t1": 16.858333333333334,
+      "t2": 17.15,
+      "t3": 16.383333333333333,
+      "t4": 16.425,
+      "t5": 16.783333333333335
+    }
+  }
+}

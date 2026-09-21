@@ -1,0 +1,282 @@
+{
+  "generator": "builtin image_gen",
+  "references": [
+    "dist/assets/pilots/p01.png",
+    "dist/assets/pilots/p05.png"
+  ],
+  "sheets": [
+    {
+      "dimensions": {
+        "height": 744,
+        "width": 2113
+      },
+      "grid": {
+        "columns": 5,
+        "rows": 2
+      },
+      "orderedIdentities": [
+        {
+          "cell": 1,
+          "column": 1,
+          "description": "Senegalese man; deep skin; short scalp stubble; broad nose, square jaw",
+          "row": 1
+        },
+        {
+          "cell": 2,
+          "column": 2,
+          "description": "Korean man; light skin; dark side-part with blue streak; slim face",
+          "row": 1
+        },
+        {
+          "cell": 3,
+          "column": 3,
+          "description": "Punjabi man; medium brown skin; dark side-part, short beard; wide jaw",
+          "row": 1
+        },
+        {
+          "cell": 4,
+          "column": 4,
+          "description": "European man; pale skin; sandy blond crop, grey eyes; angular face",
+          "row": 1
+        },
+        {
+          "cell": 5,
+          "column": 5,
+          "description": "Mexican man; tan skin; chestnut crop, moustache; broad jaw",
+          "row": 1
+        },
+        {
+          "cell": 6,
+          "column": 1,
+          "description": "Ethiopian woman; dark skin; black buzz cut; high cheekbones",
+          "row": 2
+        },
+        {
+          "cell": 7,
+          "column": 2,
+          "description": "Japanese woman; pale skin; black ear-tucked bob; round face",
+          "row": 2
+        },
+        {
+          "cell": 8,
+          "column": 3,
+          "description": "Tamil woman; deep brown skin; low long center-part black hair; strong jaw",
+          "row": 2
+        },
+        {
+          "cell": 9,
+          "column": 4,
+          "description": "Irish woman; pale freckles; auburn bob, green eyes; square face",
+          "row": 2
+        },
+        {
+          "cell": 10,
+          "column": 5,
+          "description": "Lebanese woman; olive skin; low long brunette hair; heart-shaped face",
+          "row": 2
+        }
+      ],
+      "path": "dist/assets/portraits/lot-a.png",
+      "prompt": "Use case: stylized-concept. Production pixel-art baseball manager portrait sprite sheet. The two attached images are STYLE REFERENCES ONLY: match the pixel art, warm cream background, dark outlines and cream baseball jersey of their UNCAPPED portrait in top row second column. Do NOT copy the reference sheet layout, titles, hats, labels or existing identities.\nGenerate a NEW image of EXACTLY ten different adult people in a strict invisible FIVE EQUAL COLUMNS by TWO EQUAL ROWS grid. Landscape canvas 2000x704 (aspect 2.84:1), every cell aspect approximately356:312. Zero gutters, zero outer padding, no visible grid lines. Each portrait stays inside its equal cell. Top row exactly five men, bottom row exactly five women. All adults20–35, athletic, unsexualized. Front-facing head, straight gaze, identical bust scale and identical placement in EVERY cell: head including ears centered x50%, head width54% of cell width, crown y5%, eyes y45%, chin y76%, jersey neckline y91%, shoulders cut at bottom. Neck sides around x30/70% at y80%, shoulders extend to left/right cell edges near y98%. Identical plain cream baseball jerseys with charcoal round collar, no buttons or writing. Pixelated stepped edges, clear square pixel clusters, limited warm palette, flattering simple shaded faces. Plain uniform warm cream background throughout.\nNo hats, logos, accessories, earrings, jewelry, glasses, titles, borders, padding, labels or text. Hair stays cap-compatible: no high buns, afros, ponytails, high bangs. Low long hair can extend behind ears/shoulders.\nSheet A identities, preserve order exactly:\nTOP ROW left-to-right: (1) Senegalese man, deep ebony skin, shaved scalp with subtle black stubble, broad nose, square jaw, clean-shaven. (2) Korean man, light warm skin, low side-part black hair with one restrained BLUE streak, narrow eyes, long slim face, clean-shaven. (3) Punjabi South Asian man, medium brown skin, compact dark brown side-part hair, strong wide jaw, tidy dark short beard, thick brows. (4) European man, pale skin, short sandy blond hair, grey eyes, long nose, clean-shaven, angular face. (5) Mexican man, warm tan skin, cropped chestnut hair, short dark moustache, rounded cheeks and broad jaw.\nBOTTOM ROW left-to-right: (1) Ethiopian woman, dark umber skin, black close buzz cut, high cheekbones, narrow oval face, brown eyes. (2) Japanese woman, pale warm skin, short straight black bob tucked behind ears, narrow eyes, round face. (3) Tamil woman, deep brown skin, black center-part hair flat on crown falling behind shoulders, almond eyes, broad nose, strong jaw. (4) Irish woman, pale freckled skin, low auburn bob tucked behind ears, green eyes, square face. (5) Lebanese woman, olive skin, dark brown low shoulder-length hair behind ears, straight nose, dark eyes, heart-shaped face.\nOnly top row cell2 has fantasy colored hair. All other nine natural hair colors. Distinct people, not reskins of same facial shape.",
+      "sheet": "A"
+    },
+    {
+      "dimensions": {
+        "height": 744,
+        "width": 2113
+      },
+      "grid": {
+        "columns": 5,
+        "rows": 2
+      },
+      "orderedIdentities": [
+        {
+          "cell": 1,
+          "column": 1,
+          "description": "Nigerian man; deep brown skin; short black waves, moustache",
+          "row": 1
+        },
+        {
+          "cell": 2,
+          "column": 2,
+          "description": "Vietnamese man; warm brown skin; chestnut buzz cut; square face",
+          "row": 1
+        },
+        {
+          "cell": 3,
+          "column": 3,
+          "description": "Iranian man; olive skin; short wavy dark hair, jaw stubble",
+          "row": 1
+        },
+        {
+          "cell": 4,
+          "column": 4,
+          "description": "Scandinavian man; fair skin; reddish blond crop; broad nose",
+          "row": 1
+        },
+        {
+          "cell": 5,
+          "column": 5,
+          "description": "Brazilian man; caramel skin; dark crop with teal streak; long face",
+          "row": 1
+        },
+        {
+          "cell": 6,
+          "column": 1,
+          "description": "Ghanaian woman; dark skin; black pixie cut; full cheeks",
+          "row": 2
+        },
+        {
+          "cell": 7,
+          "column": 2,
+          "description": "Chinese woman; light skin; long center-part black hair; square jaw",
+          "row": 2
+        },
+        {
+          "cell": 8,
+          "column": 3,
+          "description": "Bengali woman; medium brown skin; low brunette bob; oval face",
+          "row": 2
+        },
+        {
+          "cell": 9,
+          "column": 4,
+          "description": "Polish woman; fair skin; dark blond pixie; angular cheeks",
+          "row": 2
+        },
+        {
+          "cell": 10,
+          "column": 5,
+          "description": "Peruvian woman; copper skin; long black hair; broad cheekbones",
+          "row": 2
+        }
+      ],
+      "path": "dist/assets/portraits/lot-b.png",
+      "prompt": "Use case: stylized-concept. Production pixel-art baseball manager portrait sprite sheet. The two attached images are STYLE REFERENCES ONLY: match the pixel art, warm cream background, dark outlines and cream baseball jersey of their UNCAPPED portrait in top row second column. Do NOT copy the reference sheet layout, titles, hats, labels or existing identities.\nGenerate a NEW image of EXACTLY ten different adult people in a strict invisible FIVE EQUAL COLUMNS by TWO EQUAL ROWS grid. Landscape canvas 2000x704 (aspect 2.84:1), every cell aspect approximately356:312. Zero gutters, zero outer padding, no visible grid lines. Each portrait stays inside its equal cell. Top row exactly five men, bottom row exactly five women. All adults20–35, athletic, unsexualized. Front-facing head, straight gaze, identical bust scale and identical placement in EVERY cell: head including ears centered x50%, head width54% of cell width, crown y5%, eyes y45%, chin y76%, jersey neckline y91%, shoulders cut at bottom. Neck sides around x30/70% at y80%, shoulders extend to left/right cell edges near y98%. Identical plain cream baseball jerseys with charcoal round collar, no buttons or writing. Pixelated stepped edges, clear square pixel clusters, limited warm palette, flattering simple shaded faces. Plain uniform warm cream background throughout.\nNo hats, logos, accessories, earrings, jewelry, glasses, titles, borders, padding, labels or text. Hair stays cap-compatible: no high buns, afros, ponytails, high bangs. Low long hair can extend behind ears/shoulders.\nSheet B identities preserve exact order. TOP ROW left-to-right: (1) Nigerian man, deep brown skin, very close black waves, rounded nose, narrow chin, faint black moustache. (2) Vietnamese man, warm light brown skin, compact chestnut buzz cut, wide cheekbones, square face, clean-shaven. (3) Iranian man, olive skin, low short wavy black hair, aquiline nose, stubbled square jaw. (4) Scandinavian man, fair rosy skin, low short reddish-blond hair, grey eyes, broad nose, clean-shaven, NO beard and NO freckles. (5) Brazilian man, medium caramel skin, low cropped dark brown hair with a restrained TEAL streak at one temple, wide mouth, long face, clean-shaven.\nBOTTOM ROW left-to-right: (1) Ghanaian woman, dark brown skin, short compact black pixie cut, full cheeks, broad nose, dark eyes. (2) Chinese woman, light beige skin, black center-part hair behind ears and shoulders, slightly hooded dark eyes, strong square jaw. (3) Bengali woman, medium brown skin, flat dark brown side-part hair in low bob, warm brown eyes, oval face, pronounced nose. (4) Polish woman, fair skin, low straight dark blond pixie cut, grey eyes, broad angular cheeks, small straight nose. (5) Peruvian woman, copper tan skin, straight long black hair behind shoulders, broad cheekbones, strong nose and rounded chin.\nOnly top row cell5 has fantasy colored hair. Other nine natural hair colors. No duplicates of sheet A or supplied references.",
+      "sheet": "B"
+    },
+    {
+      "dimensions": {
+        "height": 744,
+        "width": 2113
+      },
+      "grid": {
+        "columns": 5,
+        "rows": 2
+      },
+      "orderedIdentities": [
+        {
+          "cell": 1,
+          "column": 1,
+          "description": "Jamaican man; dark skin; short black crop; broad cheekbones",
+          "row": 1
+        },
+        {
+          "cell": 2,
+          "column": 2,
+          "description": "Filipino man; tan skin; low brunette side-part; square jaw",
+          "row": 1
+        },
+        {
+          "cell": 3,
+          "column": 3,
+          "description": "Moroccan man; olive skin; black crop, moustache and stubble; narrow face",
+          "row": 1
+        },
+        {
+          "cell": 4,
+          "column": 4,
+          "description": "Dutch man; pale skin; ash blond crop, blue eyes; broad face",
+          "row": 1
+        },
+        {
+          "cell": 5,
+          "column": 5,
+          "description": "Colombian man; brown skin; chestnut crop; oval face",
+          "row": 1
+        },
+        {
+          "cell": 6,
+          "column": 1,
+          "description": "Kenyan woman; very dark skin; black crop with magenta streak; long face",
+          "row": 2
+        },
+        {
+          "cell": 7,
+          "column": 2,
+          "description": "Thai woman; golden tan skin; black ear-tucked bob; full cheeks",
+          "row": 2
+        },
+        {
+          "cell": 8,
+          "column": 3,
+          "description": "Pakistani woman; olive brown skin; low long chestnut hair; square jaw",
+          "row": 2
+        },
+        {
+          "cell": 9,
+          "column": 4,
+          "description": "Scottish woman; pale freckles; copper pixie, blue eyes; broad cheeks",
+          "row": 2
+        },
+        {
+          "cell": 10,
+          "column": 5,
+          "description": "Argentinian woman; light olive skin; low wavy brunette bob; narrow face",
+          "row": 2
+        }
+      ],
+      "path": "dist/assets/portraits/lot-c.png",
+      "prompt": "Use case: stylized-concept. Production pixel-art baseball manager portrait sprite sheet. The two attached images are STYLE REFERENCES ONLY: match the pixel art, warm cream background, dark outlines and cream baseball jersey of their UNCAPPED portrait in top row second column. Do NOT copy the reference sheet layout, titles, hats, labels or existing identities.\nGenerate a NEW image of EXACTLY ten different adult people in a strict invisible FIVE EQUAL COLUMNS by TWO EQUAL ROWS grid. Landscape canvas 2000x704 (aspect 2.84:1), every cell aspect approximately356:312. Zero gutters, zero outer padding, no visible grid lines. Each portrait stays inside its equal cell. Top row exactly five men, bottom row exactly five women. All adults20–35, athletic, unsexualized. Front-facing head, straight gaze, identical bust scale and identical placement in EVERY cell: head including ears centered x50%, head width54% of cell width, crown y5%, eyes y45%, chin y76%, jersey neckline y91%, shoulders cut at bottom. Neck sides around x30/70% at y80%, shoulders extend to left/right cell edges near y98%. Identical plain cream baseball jerseys with charcoal round collar, no buttons or writing. Pixelated stepped edges, clear square pixel clusters, limited warm palette, flattering simple shaded faces. Plain uniform warm cream background throughout.\nNo hats, logos, accessories, earrings, jewelry, glasses, titles, borders, padding, labels or text. Hair stays cap-compatible: no high buns, afros, ponytails, high bangs. Low long hair can extend behind ears/shoulders.\nCRITICAL FOR GAME CAP OVERLAY: all eyes centered precisely at y45% of each cell; eyebrows below y38%. Compact upper hair silhouette width no more than56% cell width; head including ears width54%. Forehead clear. Future cap brim follows y37% center / y42% sides. Hair crown can be at5% but compact, no hair projecting sideways beyond cap width.\nSheet C identities preserve exact order. TOP ROW left-to-right: (1) Jamaican man, dark warm brown skin, black close cropped hair, broad cheekbones, full mouth, round chin, clean-shaven. (2) Filipino man, medium tan skin, low straight dark brown side-part, small rounded nose, square jaw, clean-shaven. (3) Moroccan man, golden olive skin, short cropped black hair, long narrow face, aquiline nose, tidy short moustache and chin stubble. (4) Dutch man, pale skin, short ash blond hair lying flat, blue eyes, broad square face, clean-shaven. (5) Colombian man, medium warm brown skin, low chestnut crew cut, hazel eyes, long oval face, broad nose, clean-shaven.\nBOTTOM ROW left-to-right: (1) Kenyan woman, very dark skin, smooth short compact black hair with one restrained MAGENTA streak at temple, long face, broad nose, dark eyes. (2) Thai woman, golden tan skin, short black side-part bob behind ears, rounded face and full cheeks. (3) Pakistani woman, medium olive brown skin, low center-part chestnut brown hair behind shoulders, strong straight nose, wide almond eyes, square jaw. (4) Scottish woman, pale skin, short muted copper pixie cut, blue eyes, broad cheeks, round nose and freckles. (5) Argentinian woman, light olive skin, dark brown compact low wavy bob tucked behind ears, hazel eyes, narrow long face.\nOnly bottom row cell1 has fantasy colored hair. All other nine have natural hair colors. No identity duplicates from previous sheets or references.",
+      "sheet": "C"
+    },
+    {
+      "grid": {
+        "columns": 2,
+        "rows": 2
+      },
+      "orderedIdentities": [
+        {
+          "cell": 1,
+          "column": 1,
+          "description": "Sudanese man; deep dark skin; short black hair; long face, high cheekbones",
+          "row": 1
+        },
+        {
+          "cell": 2,
+          "column": 2,
+          "description": "Turkish man; light olive skin; short brown side-part, moustache; round face",
+          "row": 1
+        },
+        {
+          "cell": 3,
+          "column": 1,
+          "description": "Indonesian woman; tan skin; black ear-tucked bob; broad round face",
+          "row": 2
+        },
+        {
+          "cell": 4,
+          "column": 2,
+          "description": "Portuguese woman; light warm skin; low long auburn hair, green eyes; angular jaw",
+          "row": 2
+        }
+      ],
+      "path": "dist/assets/portraits/lot-d.png",
+      "prompt": "Use case: stylized-concept. Production pixel-art baseball manager portrait sprite sheet. The two attached images are STYLE REFERENCES ONLY: match the pixel art, warm cream background, dark outlines and cream baseball jersey of their UNCAPPED portrait in top row second column. Do NOT copy the reference sheet layout, titles, hats, labels or existing identities.\nGenerate a NEW image of EXACTLY FOUR different adult people in a strict invisible TWO EQUAL COLUMNS by TWO EQUAL ROWS grid. Canvas1152x1024, every cell aspect approximately356:312. Zero gutters, zero outer padding, no visible grid lines. Each portrait stays inside its equal cell. Top row exactly two men, bottom row exactly two women. All adults20–35, athletic, unsexualized. Front-facing head, straight gaze, identical bust scale and identical placement in EVERY cell: head including ears centered x50%, head width54% of cell width, crown y5%, eyes y45%, chin y76%, jersey neckline y91%, shoulders cut at bottom. Neck sides around x30/70% at y80%, shoulders extend to left/right cell edges near y98%. Identical plain cream baseball jerseys with charcoal round collar, no buttons or writing. Pixelated stepped edges, clear square pixel clusters, limited warm palette, flattering simple shaded faces. Plain uniform warm cream background throughout.\nNo hats, logos, accessories, earrings, jewelry, glasses, titles, borders, padding, labels or text. Hair stays cap-compatible: no high buns, afros, ponytails, high bangs. Low long hair can extend behind ears/shoulders.\nCRITICAL FOR GAME CAP OVERLAY: all eyes centered precisely at y45% of each cell; eyebrows below y38%. Compact upper hair silhouette width no more than56% cell width; head including ears width54%. Forehead clear. Future cap brim follows y37% center / y42% sides. Hair crown can be at5% but compact, no hair projecting sideways beyond cap width.\nFour new people, strict invisible TWO EQUAL COLUMNS by TWO EQUAL ROWS grid. Canvas1152x1024, approximate cell aspect356:312. TOP ROW left-to-right: (1) Sudanese man, deep dark skin, short flat compact black hair, long narrow face, high cheekbones, straight broad nose, clean-shaven. (2) Turkish man, light olive skin, short natural medium brown side-part, rounded face, thick brows, small moustache, hazel eyes.\nBOTTOM ROW left-to-right: (1) Indonesian woman, warm medium tan skin, straight natural black jaw-length bob tucked behind ears, dark eyes, broad round face, small nose. (2) Portuguese woman, light warm skin, natural dark auburn flat center-part hair tucked behind ears and falling behind shoulders, green eyes, angular jaw, long nose.\nALL FOUR natural hair color, NO fantasy color. No identity duplicates from previous sheets or references.",
+      "sheet": "D",
+      "dimensions": {
+        "width": 1330,
+        "height": 1182
+      }
+    }
+  ],
+  "qaNotes": [
+    "All four outputs visually inspected. Counts correct: A/B/C each 5x2 with five men above five women; D2x2 with two men above two women. Total34,17men17women.",
+    "Exactly three fantasy colored hairstyles visible: A upper2 blue, B upper5 teal, C lower1 magenta; D none.",
+    "No hats, text, labels, borders, accessories or logos visible. Cream jerseys and warm cream backgrounds consistent.",
+    "Generator did not honor exact requested pixel dimensions; A/B/C2113x744, D1330x1182. A/B/C equal columns require proportional rounded boundaries.",
+    "Geometric template approximate, not pixel-exact: A/B eyes around43–45% cell height; C eyes around41%; D eyes around38–40%. Crown D about2% rather than5%. Integration should verify cap overlay against each sheet.",
+    "Hair silhouettes mostly compact; A upper2/3 fuller than requested; B lower3 bob extends sideways at cheek height; D lower1 bob extends sideways below ears. Long hair is low, behind shoulders.",
+    "Some generated identities differ slightly from prompts: A upper1 has visible short hair rather than nearly shaved; all adult and distinct, but ethnicity labels describe intended fictional identity rather than verifiable visual fact."
+  ]
+}

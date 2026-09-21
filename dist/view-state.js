@@ -1,0 +1,10 @@
+// Preserve only the current screen's interaction state across background renders.
+const fields=root=>[...root.querySelectorAll('form input,form select,form textarea')];
+const identity=el=>[el.form?.getAttribute('id')||'',el.name||'',el.type||''].join(':');
+function keyed(root){const counts=new Map();return fields(root).map(el=>{const key=identity(el),index=counts.get(key)||0;counts.set(key,index+1);return {el,key:key+':'+index};});}
+export function captureForms(root){return keyed(root).map(({el,key})=>({key,value:el.value,checked:el.checked}));}
+export function restoreForms(root,saved){const values=new Map(saved.map(v=>[v.key,v]));for(const {el,key} of keyed(root)){const v=values.get(key);if(!v||el.type==='file')continue;if(['checkbox','radio'].includes(el.type)){if(el.value===v.value)el.checked=v.checked;}else if(el.tagName!=='SELECT'||[...el.options].some(o=>o.value===v.value))el.value=v.value;}}
+export function captureLayout(root){return {scroll:[...root.querySelectorAll('.table-scroll')].map(el=>({left:el.scrollLeft,top:el.scrollTop})),details:[...root.querySelectorAll('details')].map(el=>el.open)};}
+export function restoreLayout(root,saved){[...root.querySelectorAll('.table-scroll')].forEach((el,i)=>{if(saved.scroll[i]){el.scrollLeft=saved.scroll[i].left;el.scrollTop=saved.scroll[i].top;}});[...root.querySelectorAll('details')].forEach((el,i)=>{if(saved.details[i]!==undefined)el.open=saved.details[i];});}
+export function captureFocus(root){const el=root.activeElement;if(!el?.matches?.('input,select,textarea'))return null;const item=keyed(root).find(x=>x.el===el);return {id:el.id,key:item?.key,selection:typeof el.selectionStart==='number'?[el.selectionStart,el.selectionEnd,el.selectionDirection]:null};}
+export function restoreFocus(root,saved){if(!saved)return;const el=saved.id?root.getElementById(saved.id):keyed(root).find(x=>x.key===saved.key)?.el;if(!el)return;el.focus({preventScroll:true});if(saved.selection&&typeof el.setSelectionRange==='function')el.setSelectionRange(...saved.selection);}
