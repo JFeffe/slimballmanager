@@ -352,3 +352,18 @@ Les clics, onglets, favoris, modifications de formation, changements de journée
 - Conseils non bloquants, élément concerné mis en évidence, réduction et reprise depuis Sauvegardes → Paramètres.
 - Progression enregistrée dans la sauvegarde et conservée lors des exports/imports. Aucun tutoriel ni réglage associé en multijoueur.
 - Validation : 66 tests d’interface, multijoueur et rotation; création réelle avec tutoriel et rendu du premier conseil vérifiés dans le navigateur.
+
+
+## Candidat itch.io — 1.23.1-rc.1
+
+- Les distributions itch.zone / itch.io et GitHub Pages utilisent le relais HTTPS configuré. Le Site et le développement local conservent leur API sur la même origine.
+- Les invitations continuent à viser le document du jeu avec leur fragment personnel ; leur ouverture depuis itch.io reste à valider lors de la recette à deux joueurs.
+- Produire le ZIP : `python3 scripts/package-itch.py` (Python 3.9+ et Node). Le script reconstruit le client, exclut le serveur, vérifie les limites et compare les octets de chaque fichier après compression. Le résultat est dans `releases/`, avec `index.html` à la racine.
+- Sur itch.io, choisir HTML Game et téléverser ce ZIP comme jeu navigateur. Tester en plein écran, puis vérifier défilement, sauvegarde/reprise, export/import et connexion à deux. Ne pas annoncer le mobile avant recette dédiée.
+- Le multijoueur dépend toujours du relais hébergé ; le ZIP ne contient pas de serveur. Garder ce service disponible.
+- Cette version candidate ne constitue pas une validation navigateur de l’intégration itch.io.
+
+
+## Candidat itch.io — 1.23.1-rc.2
+
+Le panneau de session multijoueur apparaît après le contenu de la page pour les invités. Il reste en haut pour l’hôte. Les confirmations de passage du temps restent dans leur fenêtre habituelle.
